@@ -1,0 +1,574 @@
+area,venue_id,venue_name,address,lat,lon,category,tip_count,users_count,checkins_count,rating,rating_signals,price
+"Staten Island, NY",4ae46fcef964a520939a21e3,Tops Diner,500 Passaic Ave,40.75064,-74.16403,Diner,251,6300,16934,9.2,836,2
+"Staten Island, NY",4b64ad6af964a520aec72ae3,Imperial Diner,63 W Merrick Rd,40.65373,-73.5829,Diner,47,1046,3052,9.2,175,2
+"Manhattan, NY",4d960605daec224beab30c3e,Coppelia,207 W 14th St,40.73882,-73.99991,Diner,500,10481,20735,9.1,1686,2
+"Queens, NY",3fd66200f964a5207feb1ee3,Diner,85 Broadway,40.71062,-73.96558,Diner,283,8829,17218,8.9,1177,3
+"Brooklyn, NY",4a414e48f964a52010a51fe3,Brooklyn Farmacy & Soda Fountain,513 Henry St,40.68407,-73.99931,Diner,183,6119,11237,8.9,778,1
+"Bronx, NY",4b79cc46f964a520c5122fe3,Tibbett Diner,3033 Tibbett Ave,40.8804,-73.90894,Diner,20,373,1221,8.8,67,1
+"Manhattan, NY",4a85d797f964a5206aff1fe3,Johny's Luncheonette,124 W 25th St,40.74463,-73.99291,Diner,215,3272,6597,8.7,666,1
+"Brooklyn, NY",478b771ef964a520414d1fe3,Jimmy's Diner,577 Union Ave,40.71779,-73.95233,Diner,202,5072,10202,8.7,732,2
+"Brooklyn, NY",4abe4e84f964a520958c20e3,Pegasus Cafe,8610 3rd Ave,40.62317,-74.03119,Diner,31,799,2096,8.7,107,2
+"Staten Island, NY",4b0ec3c7f964a520b25a23e3,Brownstone Diner & Pancake Factory,426 Jersey Ave,40.71652,-74.04872,Diner,224,7661,18588,8.7,817,2
+"Staten Island, NY",4c027bc0310fc9b64479c461,Thomas's Ham 'N' Eggery Diner,325 Old Country Rd,40.74465,-73.60752,Diner,84,2577,4951,8.7,258,2
+"Manhattan, NY",3fd66200f964a52084e51ee3,Eisenberg's Sandwich Shop,174 5th Ave,40.74101,-73.98998,Diner,284,8390,16371,8.6,1147,1
+"Manhattan, NY",40a2ba80f964a520fbf21ee3,Broadway Dive,2662 Broadway,40.79798,-73.96932,Diner,34,1867,4120,8.6,182,1
+"Manhattan, NY",45dffe2cf964a5201d431fe3,Morandi,211 Waverly Pl,40.73533,-74.00172,Diner,204,11159,18678,8.6,879,3
+"Bronx, NY",4bc1f9b32a89ef3bc9f6f288,Georges Diner-Cafe,2369 Westchester Ave,40.83688,-73.8469,Diner,34,401,1523,8.6,97,1
+"Queens, NY",4a81ed04f964a520fff71fe3,Jackson Hole,6935 Astoria Blvd N,40.76752,-73.89927,Diner,86,2943,5781,8.6,310,2
+"Brooklyn, NY",433f2300f964a52050281fe3,Mike's Coffee Shop,328 Dekalb Ave,40.68979,-73.96538,Diner,83,1547,4596,8.6,234,1
+"Queens, NY",4cc31923b2beb1f70e4e144c,Family Corner,21-02 31st St,40.77804,-73.90862,Diner,24,372,986,8.5,68,1
+"Brooklyn, NY",3fd66200f964a5207cf11ee3,Junior's Restaurant,386 Flatbush Avenue Ext,40.69001,-73.98173,Diner,356,14903,22882,8.5,1518,2
+"Staten Island, NY",4b7ffee6f964a520804930e3,Bus Stop Diner,793 Roosevelt Ave,40.58854,-74.2281,Diner,19,345,1858,8.5,50,1
+"Queens, NY",4a577662f964a52024b61fe3,Ben's Kosher Delicatessen,211-37 26th Ave,40.77886,-73.77837,Diner,13,758,1702,8.4,73,3
+"Brooklyn, NY",4a6c86e5f964a520b8d01fe3,Tom's Restaurant,782 Washington Ave,40.67454,-73.96322,Diner,285,8768,16443,8.4,1057,2
+"Staten Island, NY",4e78be0faeb726a0e684cf88,Island Cafe,949 Jewett Ave,40.61313,-74.13059,Diner,18,277,742,8.4,46,1
+"Staten Island, NY",4bb53540f562ef3b85ac2e97,Andrew's Diner,4160 Hylan Blvd,40.53838,-74.14925,Diner,22,535,1222,8.4,80,3
+"Staten Island, NY",4bf71f445ec320a1417786d3,Prestige Diner,1308 Springfield Ave,40.70554,-74.40709,Diner,35,1023,3763,8.4,125,2
+"Manhattan, NY",4a63a7d0f964a52085c51fe3,Ellen's Stardust Diner,1650 Broadway,40.76208,-73.98353,Diner,435,16592,20320,8.3,1474,2
+"Manhattan, NY",4d686787a9702c0f8aa114be,Manhattan Diner,2532 Broadway,40.7938,-73.97235,Diner,59,2582,5414,8.3,291,2
+"Manhattan, NY",5b9686e7d807ee002c498f8d,Golden Diner,123 Madison St,40.71245,-73.99421,Diner,7,112,142,8.3,22,0
+"Bronx, NY",4c065fba517d0f4724d9f515,Corky's,2558 Grand Concourse,40.86338,-73.89652,Diner,7,90,303,8.3,21,1
+"Queens, NY",4b6e39cdf964a520d2b22ce3,Lindenwood Diner,2870 Linden Blvd,40.66987,-73.85751,Diner,55,1291,3309,8.3,226,2
+"Queens, NY",4beed97de24d20a1f2777314,Omega Diner,1809 Lakeville Rd,40.74378,-73.69439,Diner,27,945,2366,8.3,106,2
+"Staten Island, NY",4bdb1e963904a593ead9489e,Page Plaza Diner,75 Page Ave,40.52234,-74.23491,Diner,24,803,2201,8.3,85,2
+"Manhattan, NY",4a3be400f964a520e0a01fe3,La Bonbonniere,28 8th Ave,40.73787,-74.00448,Diner,116,2994,5652,8.2,381,2
+"Manhattan, NY",4b0dd1d9f964a520b65023e3,Mansion Restaurant,1634 York Ave,40.77596,-73.94678,Diner,62,1816,5268,8.2,210,1
+"Bronx, NY",4b60aaa3f964a5200bf329e3,Royal Coach Diner,3260 Boston Rd,40.87254,-73.85436,Diner,44,1035,2455,8.2,164,2
+"Queens, NY",4b76ddd8f964a52075652ee3,Fame Diner,6967 Grand Ave,40.7272,-73.89335,Diner,19,473,1453,8.2,61,2
+"Queens, NY",4a0c616ff964a52026751fe3,Pete's Grill,3914 Queens Blvd,40.7437,-73.92575,Diner,50,1768,3946,8.2,169,1
+"Queens, NY",4b576548f964a520963528e3,Lite Bites & Grill,3191 Steinway St,40.75898,-73.91894,Diner,31,942,2299,8.2,74,1
+"Brooklyn, NY",4aad17b8f964a520795e20e3,Little Purity,390 7th Ave,40.6652,-73.98311,Diner,21,955,2351,8.2,78,2
+"Manhattan, NY",4aba732af964a5205c8120e3,Sarge's Delicatessen & Diner,548 3rd Ave,40.74726,-73.97706,Diner,89,3292,5497,8.1,303,2
+"Bronx, NY",4bd323409854d13a3bf5fc4d,Pete's Donut Shop & Restaurant,3725 E Tremont Ave,40.82641,-73.8216,Diner,4,80,276,8.1,20,1
+"Bronx, NY",4bcfa0dc046076b0d9c46e71,George's Restaurant,3000 Buhre Ave,40.84694,-73.83218,Diner,9,339,1168,8.1,46,3
+"Bronx, NY",4b87d10cf964a5206ecd31e3,City Island Diner,304 City Island Ave,40.84724,-73.78624,Diner,7,322,624,8.1,29,1
+"Queens, NY",4ae342acf964a5207e9221e3,Tower Diner,98-95 Queens Blvd,40.72761,-73.85488,Diner,37,1065,4134,8.1,122,2
+"Queens, NY",4b8c0fcbf964a5208ebb32e3,Oasis Diner Restaurant,2132 Flatbush Ave,40.61786,-73.93211,Diner,26,565,1906,8.1,87,2
+"Queens, NY",4c0846b8340720a148ee8293,Good Eats Diner,69-32 Grand Ave,40.72644,-73.8944,Diner,19,739,1645,8.1,101,2
+"Queens, NY",558b4dc1498ec23a57168bcc,Parkway Diner,44-25 Douglaston Pkwy,40.7658,-73.74485,Diner,3,124,268,8.1,19,1
+"Brooklyn, NY",49f3261bf964a520696a1fe3,Clark's Restaurant,80 Clark St,40.69753,-73.99304,Diner,92,2653,6381,8.1,342,2
+"Brooklyn, NY",4b86cd60f964a520559e31e3,Royal Restaurant,7609 5th Ave,40.62836,-74.02306,Diner,12,207,698,8.1,31,1
+"Staten Island, NY",4e283f8bb0fba988bb69a49a,Harvest Cafe,694 New Dorp Ln,40.56598,-74.10109,Diner,3,47,59,8.1,9,1
+"Staten Island, NY",4b09883df964a520e91823e3,Skylark Diner,17 Wooding Ave,40.50793,-74.39119,Diner,131,4501,10153,8.1,402,2
+"Manhattan, NY",4a63938af964a5205ac51fe3,Lexington Candy Shop Luncheonette,1226 Lexington Ave,40.77764,-73.95703,Diner,80,2283,3348,8,285,2
+"Manhattan, NY",53399f0f498e0f3923a03a4a,Baz Bagel and Restaurant,181 Grand St,40.71933,-73.9977,Diner,73,1629,3453,8,312,0
+"Bronx, NY",4c54720972cf0f47df1094d4,Cozy Cottage Restaurant,4105 Boston Rd,40.88633,-73.82762,Diner,7,123,642,8,19,1
+"Queens, NY",51bcf49a498e6935e7784dac,The Classic Diner,117-33 Myrtle Ave,40.70004,-73.83152,Diner,21,371,1168,8,88,2
+"Queens, NY",4b3e8b25f964a520bc9e25e3,Forest Hills Diner,68-60 Austin St,40.72231,-73.85038,Diner,11,300,801,8,44,1
+"Brooklyn, NY",4a61fcebf964a520c8c21fe3,Tina's Place,1002 Flushing Ave,40.70381,-73.93109,Diner,52,1107,3274,8,175,1
+"Brooklyn, NY",4a564295f964a520dfb41fe3,Cobble Hill Coffee Shop,314 Court St,40.68343,-73.99543,Diner,37,1367,3696,8,119,2
+"Brooklyn, NY",4a862810f964a5209a0020e3,Dizzy's Diner,511 9th St,40.66574,-73.97908,Diner,194,3211,7189,8,271,2
+"Staten Island, NY",4aeb54f6f964a5200dc121e3,Parkwood Diner,1958 Springfield Ave,40.72026,-74.27346,Diner,37,743,3211,8,137,2
+"Manhattan, NY",43d9af53f964a520702e1fe3,Westway Diner,614 9th Ave,40.75946,-73.99182,Diner,163,7706,14159,7.9,608,2
+"Manhattan, NY",53bcdaeb498e80dc93839ec6,Times Square Diner,807 8th Ave,40.7615,-73.98666,Diner,27,1392,1736,7.9,139,1
+"Manhattan, NY",49c6a988f964a5206e571fe3,Gnocco,337 E 10th St,40.72711,-73.98027,Diner,91,3931,5535,7.9,316,0
+"Manhattan, NY",4be88652947820a1e802b5db,G's Coffee Shop,634 W 207th St,40.86842,-73.92174,Diner,30,162,883,7.9,29,0
+"Bronx, NY",4b78a508f964a520b4db2ee3,National Restaurant & Coffee,8 Bedford Park Blvd E,40.87301,-73.88908,Diner,7,170,439,7.9,25,2
+"Queens, NY",49ea8fb5f964a5207f661fe3,Court Square Diner,45-30 23rd St,40.74609,-73.94562,Diner,92,4530,9892,7.9,429,2
+"Queens, NY",4abb6c52f964a520bc8320e3,Brothers Cafe,3949 43rd Ave,40.74559,-73.92394,Diner,2,236,1122,7.9,20,1
+"Queens, NY",4b1c414df964a520160524e3,Jahn's,8104 37th Ave,40.74966,-73.88505,Diner,30,760,2154,7.9,97,2
+"Queens, NY",4c546433fd2ea5938df1062a,Avenue Diner,91-06 Jamaica Ave,40.69314,-73.85353,Diner,13,167,423,7.9,25,2
+"Queens, NY",4eb813b5be7bfc284b69bde8,Jax Inn Diner,72-12 Northern Blvd,40.75453,-73.89391,Diner,64,1503,3842,7.9,199,2
+"Queens, NY",456a81acf964a520f33d1fe3,Bel Aire Diner,3191 21st St,40.76537,-73.93154,Diner,102,2937,9584,7.9,334,2
+"Brooklyn, NY",4a19e252f964a5206b7a1fe3,Ocean View Cafe,290 Brighton Beach Ave,40.57698,-73.96422,Diner,29,658,806,7.9,84,2
+"Staten Island, NY",4aa06637f964a5207c3f20e3,Annadale Diner,813 Annadale Rd,40.54208,-74.17733,Diner,22,620,1703,7.9,63,2
+"Staten Island, NY",4a762eddf964a52081e21fe3,Broadway Diner,1075 Broadway,40.68504,-74.10059,Diner,32,1422,5013,7.9,136,1
+"Staten Island, NY",4b77375ef964a520b1882ee3,Tropicana Diner,537 Morris Ave,40.67362,-74.22372,Diner,59,1638,4914,7.9,206,2
+"Staten Island, NY",4adcabdff964a520982e21e3,Park Place Diner,1040 State Route 34,40.40165,-74.23028,Diner,27,1202,4257,7.9,113,2
+"Manhattan, NY",43bfd385f964a520232d1fe3,Waverly Restaurant,385 Avenue of the Americas,40.73301,-74.00012,Diner,100,6234,10585,7.8,477,2
+"Manhattan, NY",4a1195faf964a52025771fe3,Murray Hill Diner,222 Lexington Ave,40.74587,-73.98017,Diner,51,2457,5737,7.8,213,2
+"Manhattan, NY",4a62028cf964a520d2c21fe3,Scotty's Diner,336 Lexington Ave,40.74972,-73.97747,Diner,121,3141,5064,7.8,461,2
+"Manhattan, NY",57fe5fb9498e0dfb586bfe58,Nickel & Diner,1 Howard St,40.71879,-73.99948,Diner,49,1894,2725,7.8,282,2
+"Bronx, NY",4b3789f3f964a520f34125e3,Riverdale Diner,W 238th St & Broadway,40.88518,-73.89948,Diner,53,1628,4964,7.8,218,2
+"Bronx, NY",4c5469db72cf0f47e6b285d4,Jimbo's Hamburger Palace,232 Willis Ave,40.80898,-73.92307,Diner,5,124,891,7.8,16,1
+"Bronx, NY",4b2084bdf964a520de3224e3,Step-In Restaurant,1309 Metropolitan Ave,40.8338,-73.86097,Diner,30,508,2267,7.8,83,2
+"Queens, NY",4c02de8839d476b099502fa7,Omega Coffee Shop,20007 32nd Ave,40.76981,-73.7891,Diner,10,247,2614,7.8,35,2
+"Queens, NY",4b6b5883f964a52064022ce3,Triple Crown Diner,24827 Jericho Tpke,40.72625,-73.71603,Diner,34,1103,4696,7.8,116,2
+"Queens, NY",4a43ac96f964a520a9a61fe3,Igloo Cafe,2226 31st St,40.77567,-73.91153,Diner,40,1620,5805,7.8,120,1
+"Brooklyn, NY",49cffec8f964a520f15a1fe3,7th Avenue Donuts,324 7th Ave,40.66716,-73.98146,Diner,50,1490,3355,7.8,137,1
+"Brooklyn, NY",4bc10f18b492d13a6c79a560,International Restaurant,4408 5th Ave,40.64835,-74.00709,Diner,13,171,307,7.8,19,2
+"Staten Island, NY",4bdcc1cdafe8c9b665e95085,Mark Twain Diner,1601 Morris Ave,40.6921,-74.25417,Diner,35,956,2638,7.8,112,2
+"Manhattan, NY",457d9859f964a520293f1fe3,Square Diner,33 Leonard St,40.71846,-74.00683,Diner,54,2052,3497,7.7,178,2
+"Bronx, NY",4b6a0d33f964a5205dc42be3,Tremont Diner,3007 E Tremont Ave,40.84005,-73.8373,Diner,20,624,1803,7.7,86,2
+"Bronx, NY",4c6aebf4599fbe9a3282913f,New Capital Restaurant,2 W Kingsbridge Rd,40.86736,-73.89762,Diner,17,361,1169,7.7,42,2
+"Queens, NY",40da1980f964a5206c011fe3,Neptune Diner,31-05 Astoria Blvd,40.77079,-73.91689,Diner,91,4897,11457,7.7,346,2
+"Queens, NY",4bbe888a98f495218d77d163,North Shore Diner,19652 Northern Blvd,40.75753,-73.78364,Diner,13,1453,3533,7.7,89,2
+"Queens, NY",4b3e391df964a520bc9925e3,Jackson Hole,3501 Bell Blvd,40.7688,-73.77334,Diner,48,1779,3471,7.7,147,2
+"Brooklyn, NY",5692966d498ea35a37251d26,Mex Carroll's Diner,192 Columbia St,40.68551,-74.00251,Diner,6,78,191,7.7,23,2
+"Brooklyn, NY",4b083bbaf964a520ee0623e3,Johns Donuts and Coffee Shop,481 Myrtle Ave,40.69349,-73.96599,Diner,18,382,1194,7.7,37,1
+"Brooklyn, NY",53c68400498eed8d9c3a7213,Mary's Coffee Shop,905 Dekalb Ave,40.69266,-73.94043,Diner,1,54,105,7.7,10,1
+"Brooklyn, NY",5325e9cc498ee9558d021615,La Villa Cafe,505 Dekalb Ave,40.69107,-73.9555,Diner,5,47,269,7.7,12,1
+"Brooklyn, NY",49baf166f964a520c9531fe3,Windsor Cafe,220 Prospect Park W,40.66011,-73.98068,Diner,30,1239,2817,7.7,76,2
+"Staten Island, NY",4b6e1cfff964a52079ab2ce3,Broadway Diner and Bistro,226 Broadway,40.65461,-74.12601,Diner,22,575,2177,7.7,69,2
+"Staten Island, NY",4bbdeafef57ba5930d9daeb9,Huck Finn Diner,2431 Morris Ave,40.70205,-74.28826,Diner,25,1139,3610,7.7,106,2
+"Staten Island, NY",4b9bb92af964a520161e36e3,Vicki's Diner,110 E Broad St,40.65081,-74.34905,Diner,33,758,1805,7.7,77,1
+"Manhattan, NY",49f4b6fdf964a5203d6b1fe3,Big Daddy's,239 Park Ave S,40.73794,-73.9878,Diner,187,8757,13866,7.6,558,2
+"Manhattan, NY",49ccef74f964a5209f591fe3,City Diner,2441 Broadway,40.79105,-73.97442,Diner,54,2642,5787,7.6,197,1
+"Manhattan, NY",4ac4e1e5f964a520649f20e3,New York Luncheonette,135 E 50th St,40.75624,-73.9718,Diner,26,1286,1902,7.6,102,2
+"Manhattan, NY",4a3d4791f964a5200ea21fe3,Gracie Mews Diner,1550 1st Ave,40.77354,-73.95178,Diner,88,2868,7438,7.6,263,2
+"Manhattan, NY",4b310484f964a5204dfe24e3,John's Coffee Shop,823 2nd Ave,40.75119,-73.97138,Diner,23,749,1553,7.6,86,2
+"Manhattan, NY",4a497478f964a5205dab1fe3,Suma Sushi,964 Amsterdam Ave,40.80133,-73.96506,Diner,10,386,612,7.6,19,2
+"Manhattan, NY",49e8b08bf964a5206c651fe3,Captain Cafe,18 E 33rd St,40.74739,-73.9842,Diner,27,474,1189,7.6,62,1
+"Manhattan, NY",4afb587bf964a5202b1d22e3,Jackson Hole,232 E 64th St,40.76387,-73.96297,Diner,74,2112,3173,7.6,219,2
+"Manhattan, NY",4a1a4dcbf964a520927a1fe3,Hudson View Restaurant,770 W 181st St,40.85089,-73.93823,Diner,33,947,2466,7.6,92,0
+"Manhattan, NY",5cd5d4ed1ffed7002ca978dc,Shopsin’s,115 Delancey St,40.71793,-73.98808,Diner,3,74,81,7.6,9,0
+"Manhattan, NY",49c02175f964a5204b551fe3,George's New York,89 Greenwich St,40.70789,-74.0135,Diner,64,2771,4291,7.6,209,2
+"Manhattan, NY",4a996668f964a5201e2e20e3,Tasty Restaurant & Cafe,58-02 Myrtle Ave,40.70052,-73.90145,Diner,7,408,1130,7.6,55,1
+"Queens, NY",4be5d4c2bcef2d7fdb6404e5,Last Stop Gourmet Shop,222 Beach 116th St,40.58039,-73.83746,Diner,5,159,656,7.6,10,1
+"Queens, NY",46f7576cf964a520fc4a1fe3,Stop Inn,60-22 Roosevelt Ave,40.74553,-73.90348,Diner,42,904,2819,7.6,103,1
+"Queens, NY",4a82d51bf964a5206cf91fe3,Jackson House Diner,8214 37th Ave,40.7498,-73.88366,Diner,5,266,644,7.6,28,1
+"Brooklyn, NY",4cfc0ea52d80a1436b0c4fd8,Terrace Coffee Shop,598 19th St,40.65459,-73.97921,Diner,27,359,979,7.6,35,1
+"Brooklyn, NY",4bcf51d1046076b022146e71,Jimmy's Place,7118 13th Ave,40.62219,-74.00555,Diner,10,168,474,7.6,27,2
+"Brooklyn, NY",4b40cc65f964a5203ebb25e3,Perry's Restaurant,3490 Nostrand Ave,40.599,-73.94187,Diner,16,247,1088,7.6,43,2
+"Staten Island, NY",4bc649c842419521b8ee031d,The Kenilworth Diner,614 Boulevard,40.67687,-74.2879,Diner,8,478,1294,7.6,43,2
+"Manhattan, NY",4656e534f964a52008471fe3,Bus Stop Cafe,597 Hudson St,40.737,-74.00571,Diner,47,2117,4058,7.5,142,2
+"Manhattan, NY",4a4a9a0af964a520fdab1fe3,Washington Square Diner,150 W 4th St,40.73159,-74.00085,Diner,45,3082,5087,7.5,195,0
+"Manhattan, NY",4bc0bdf1b492d13a53c7a460,Staten Island Diner,1475 Victory Blvd.,40.61296,-74.12632,Diner,10,283,575,7.5,35,1
+"Bronx, NY",4b171e79f964a5209cc223e3,Webster Cafe,2873 Webster Ave,40.86729,-73.88362,Diner,4,238,529,7.5,25,2
+"Bronx, NY",4c3a4042dfb0e21ebee5b1a8,Jimbo's,690 Melrose Ave,40.81957,-73.91618,Diner,3,73,175,7.5,10,1
+"Queens, NY",4abe5c12f964a520fa8c20e3,Ridgewood Eats,903 Seneca Ave,40.70064,-73.90398,Diner,35,850,2252,7.5,94,2
+"Queens, NY",4f21cfd8e4b08842e155b56a,Bell Diner,21525 73rd Ave,40.74093,-73.75856,Diner,14,312,1562,7.5,48,2
+"Queens, NY",570bb064498e04ec2f558224,The Ozone Diner,133-35 79th St,40.6724,-73.85676,Diner,5,147,460,7.5,22,1
+"Queens, NY",4bc3260c4cdfc9b641e79621,The Restaurant,8605 Rockaway Beach Blvd,40.58843,-73.80975,Diner,2,158,643,7.5,24,1
+"Queens, NY",4a90ff85f964a520c01920e3,Arch Diner,1866 Ralph Ave,40.63156,-73.91878,Diner,35,926,2613,7.5,146,2
+"Queens, NY",4b9bd601f964a520302b36e3,ValBrook Diner,160 E Merrick Rd,40.66286,-73.69225,Diner,26,784,1926,7.5,94,2
+"Brooklyn, NY",5560983b498ead268a134aac,Pablito's Taqueria & Restaurant,723 5th Ave,40.66027,-73.99451,Diner,7,95,171,7.5,30,1
+"Staten Island, NY",4bd43862caff95219052d6f0,Oakwood Diner,3161 Amboy Rd,40.56432,-74.13272,Diner,8,207,467,7.5,27,1
+"Manhattan, NY",4accaf20f964a52033c920e3,Brooklyn Diner,155 W 43rd St,40.7565,-73.98589,Diner,109,5605,7553,7.4,353,3
+"Manhattan, NY",49cb0b51f964a520fb581fe3,Chelsea Square Restaurant,368 W 23rd St,40.74645,-74.00126,Diner,49,2831,5170,7.4,208,1
+"Manhattan, NY",4a91817af964a520761a20e3,The Dish,201 8th Ave,40.74364,-73.9997,Diner,55,2463,4891,7.4,136,2
+"Manhattan, NY",3fd66200f964a52045ea1ee3,Jackson Hole,521 3rd Ave,40.74615,-73.97749,Diner,49,2443,3248,7.4,172,2
+"Manhattan, NY",54242f3a498e53a21ee14b81,Tribeca's Kitchen,200 Church St,40.71611,-74.00708,Diner,22,1121,1528,7.4,143,0
+"Manhattan, NY",562c1629498e62a640129f9e,The Kitchen Sink,"88 2nd Ave, New York, NY 10003",40.72677,-73.98888,Diner,6,479,1107,7.4,51,0
+"Manhattan, NY",4b0c402af964a520c33923e3,Stage Door Delicatessen,26 Vesey St,40.7118,-74.01003,Diner,37,1657,2782,7.4,91,1
+"Bronx, NY",4fa534cee4b0fed4819dc7d4,Perry Coffee Shop.,496 E 161st St,40.82343,-73.91094,Diner,7,65,146,7.4,17,1
+"Bronx, NY",4b954545f964a5203c9934e3,Fordham Restaurant,2506 Grand Concourse,40.86273,-73.89678,Diner,6,78,228,7.4,20,1
+"Bronx, NY",4bd1aabea8b3a5932617665f,Jimbo's Hamburger Palace,346 Devoe Ave,40.83922,-73.87803,Diner,3,192,355,7.4,16,1
+"Bronx, NY",4c407b2dda3dc928c85dc7b9,Lulu's Coffee Shop,1191 Castle Hill Ave,40.8319,-73.85113,Diner,3,86,304,7.4,8,1
+"Queens, NY",4b3aa59ff964a520db6b25e3,Delight Diner,66-91 Fresh Pond Rd,40.70623,-73.89683,Diner,6,166,1358,7.4,27,1
+"Queens, NY",4b54c3a2f964a52039cb27e3,Stop 20 Diner,1336 Hempstead Tpke,40.70816,-73.69024,Diner,22,760,2567,7.4,84,2
+"Brooklyn, NY",5646cef1498e37c297e43ba3,Stewart's Restaurant,8518 5th Ave,40.62169,-74.02614,Diner,1,155,220,7.4,13,1
+"Brooklyn, NY",4aeb3f58f964a5201ac021e3,D&D Coffee Shop,4508 Fort Hamilton Pkwy,40.64017,-73.99506,Diner,27,444,2036,7.4,84,2
+"Brooklyn, NY",58537c9851d19e3053746796,Clara's,53 Wilson Avenue,40.70249,-73.92885,Diner,4,303,667,7.4,28,2
+"Brooklyn, NY",4b4376bbf964a520f4e025e3,Tio Pio,78 Willoughby St,40.69212,-73.98564,Diner,14,413,1224,7.4,50,1
+"Staten Island, NY",4b788168f964a520cbd22ee3,Mike's Unicorn Diner,2944 Victory Blvd,40.60728,-74.16079,Diner,41,1277,3317,7.4,115,2
+"Manhattan, NY",4b32866bf964a520c20d25e3,Viand Cafe,2130 Broadway,40.78085,-73.98113,Diner,52,2807,5343,7.3,187,2
+"Manhattan, NY",4c26e05e905a0f4700286460,Lower East Side Coffee Shop,500 E 14th St,40.73047,-73.98066,Diner,46,1390,2826,7.3,104,1
+"Manhattan, NY",4bcb13850687ef3b3af4dccc,Madison Restaurant,965 1st Ave,40.75579,-73.9649,Diner,56,2605,5710,7.3,194,1
+"Manhattan, NY",3fd66200f964a520dbe71ee3,EJ's Luncheonette,1271 3rd Ave,40.77046,-73.95984,Diner,92,4673,8470,7.3,337,2
+"Manhattan, NY",4dfb781362846078953372a6,Broadway Diner,103rd and Broadway,40.79818,-73.96926,Diner,5,132,184,7.3,17,1
+"Manhattan, NY",5ab7efd59e3b65760318b10d,York Avenue Kitchen,1453 York Ave,40.77025,-73.9515,Diner,2,50,81,7.3,9,1
+"Manhattan, NY",4a70b5aef964a52040d81fe3,Gee Whiz Diner,295 Greenwich St,40.71554,-74.01129,Diner,63,2615,5136,7.3,193,0
+"Manhattan, NY",51cf1616498e45e34e0176d4,Wahi Diner,3915 Broadway,40.83844,-73.94179,Diner,31,634,1698,7.3,116,0
+"Manhattan, NY",4b1fd5bbf964a520902924e3,Zafi's,500 Grand St,40.71487,-73.9829,Diner,9,304,842,7.3,29,1
+"Manhattan, NY",4a9e9f29f964a520a33a20e3,Landmark Diner,158 Grand St,40.71987,-73.99879,Diner,53,1935,4255,7.3,199,1
+"Bronx, NY",4bf31113c440c9b626840104,Rainbow Diner,2197 White Plains Rd,40.85635,-73.86763,Diner,17,290,948,7.3,60,2
+"Bronx, NY",4c30e9b66f1fef3bf7deeb3d,Shorehaven Diner,622 Castle Hill Ave,40.81969,-73.84789,Diner,7,131,476,7.3,30,1
+"Queens, NY",4e3a8b6b1838961aff009449,Bayside Diner,207-07 Northern Blvd,40.75869,-73.77636,Diner,25,1559,3228,7.3,144,2
+"Queens, NY",4aed97eff964a520cfcd21e3,Mini Star Restaurant,30-02 Steinway St,40.7639,-73.91509,Diner,31,916,2325,7.3,80,1
+"Queens, NY",4a628609f964a5203ac41fe3,Buccaneer Diner,9301 Astoria Blvd,40.76328,-73.87621,Diner,36,1357,2807,7.3,144,2
+"Queens, NY",4b77d6d4f964a52002ac2ee3,Atlantic Diner,111-16 Atlantic Ave,40.69211,-73.83398,Diner,20,848,2314,7.3,126,2
+"Queens, NY",4b5c978ff964a520933829e3,Ricky's Cafe,7502 37th Ave,40.74903,-73.89078,Diner,15,275,568,7.3,30,1
+"Queens, NY",4a3534d2f964a520989c1fe3,Skillman Famous Pizza and Coffee Shop,46-06 Skillman Ave,40.7465,-73.9178,Diner,9,191,509,7.3,19,1
+"Queens, NY",4b5cceabf964a520074529e3,New Apollo Diner,155 Livingston St,40.69051,-73.98786,Diner,41,1463,2760,7.3,163,2
+"Queens, NY",4db420fbcda1c57c8254d221,Silver Moon Diner,269-01 76th Ave,40.75386,-73.70873,Diner,10,233,736,7.3,44,1
+"Brooklyn, NY",4b08983cf964a520230f23e3,Mirage Diner,717 Kings Hwy,40.60653,-73.96476,Diner,32,780,2288,7.3,135,1
+"Brooklyn, NY",4d84dfcb9324236a60c2c20e,Plaza King Coffee Shop,5117 Avenue U,40.61014,-73.92225,Diner,6,75,231,7.3,14,1
+"Brooklyn, NY",53452fab498ebfb423d47359,Sazon Nunez Corp,,40.70432,-73.91929,Diner,3,52,115,7.3,9,2
+"Staten Island, NY",4a8ed3e6f964a520ce1220e3,Woodrow Diner,655 Rossville Ave,40.54283,-74.20675,Diner,12,430,1240,7.3,41,2
+"Staten Island, NY",4c9efa317c096dcb20addad1,Linden House Diner,200 W Saint Georges Ave,40.63485,-74.26667,Diner,7,408,1002,7.3,38,2
+"Manhattan, NY",49e7dfc6f964a52024651fe3,Bus Stop Restaurant,3341 Broadway,40.82021,-73.95538,Diner,20,559,2020,7.2,67,1
+"Manhattan, NY",4a89cb6af964a520030920e3,Utopia Diner,267 Amsterdam Ave,40.77889,-73.98182,Diner,44,2290,4328,7.2,161,1
+"Manhattan, NY",5a2b2ffef00a70041d4d0466,Gramercy Kitchen,184 3rd Ave,40.73531,-73.98601,Diner,3,182,289,7.2,26,0
+"Manhattan, NY",4bc856e92f94d13ad75b137f,Jimbo's Hamburgers,112 W 116th St,40.80234,-73.95055,Diner,14,207,673,7.2,23,0
+"Manhattan, NY",49eb56f6f964a520c5661fe3,Vicky's Diner,805 W 187th St,40.85519,-73.93717,Diner,18,376,1614,7.2,44,0
+"Bronx, NY",4c1116e0f1b6a5932feb7c27,M&G Diner,2390 Arthur Ave,40.85517,-73.88773,Diner,7,149,378,7.2,18,1
+"Bronx, NY",4baedf9ff964a520c0de3be3,Bedford Cafe Restaurant,1 Bedford Park Blvd E,40.87341,-73.8892,Diner,23,615,2310,7.2,75,2
+"Bronx, NY",4bf3e1f8706e20a162a5a898,Nick's Garden Coffee Shop,2953 Webster Ave,40.86773,-73.88341,Diner,3,99,691,7.2,12,1
+"Bronx, NY",4d5284a471548cfa1e94279a,Perry's Diner,,40.81497,-73.91978,Diner,2,58,183,7.2,8,1
+"Queens, NY",4c13b49f7f7f2d7f747edf68,Cross Bay Diner,16031 Crossbay Blvd,40.6566,-73.83896,Diner,38,1360,2864,7.2,147,2
+"Queens, NY",4b08141af964a520610323e3,Uncle Bill's Diner,3017 Stratton St,40.7695,-73.83457,Diner,12,604,1294,7.2,45,2
+"Queens, NY",49fc8121f964a520ad6e1fe3,Michael's Restaurant,3317 Broadway,40.76098,-73.92313,Diner,36,1143,4018,7.2,111,2
+"Queens, NY",4be58847d4f7c9b62c7d2520,Crescent Kitchen,2342 30th Ave,40.76858,-73.92524,Diner,10,393,1134,7.2,33,1
+"Brooklyn, NY",4a997860f964a5207a2e20e3,George's Restaurant,753 Coney Island Ave,40.63904,-73.96871,Diner,13,371,1085,7.2,52,1
+"Brooklyn, NY",4aadde31f964a5208a6120e3,Fort Hamilton Diner,9502 4th Ave,40.61607,-74.03113,Diner,16,363,1141,7.2,34,2
+"Brooklyn, NY",4bab768cf964a52046ab3ae3,Lite Bites,700 Manhattan Ave,40.7255,-73.95166,Diner,25,546,1941,7.2,51,1
+"Brooklyn, NY",45f91993f964a52041441fe3,Gottlieb's Restaurant,352 Roebling St,40.70764,-73.96124,Diner,13,213,383,7.2,33,2
+"Brooklyn, NY",59281e0ae679bc1e30ed0a52,Belly | Korean Bacon Shop,219 Grand St,40.71393,-73.95969,Diner,6,118,132,7.2,15,2
+"Manhattan, NY",4ae230f8f964a5209f8b21e3,Cafe Luka,1317 1st Ave,40.76696,-73.95663,Diner,37,1063,2804,7.1,46,0
+"Manhattan, NY",49ecebbaf964a520ae671fe3,Brooklyn Diner,212 W 57th St,40.76573,-73.9806,Diner,192,7527,9352,7.1,655,0
+"Manhattan, NY",4b4c8000f964a5208eb426e3,Pier 72 Diner,270 W 72nd St,40.77975,-73.98422,Diner,14,530,1163,7.1,62,0
+"Bronx, NY",4b48d925f964a520d25926e3,Crosstown Diner,2880 Bruckner Blvd,40.8326,-73.8288,Diner,50,1148,3029,7.1,142,2
+"Queens, NY",4ffee165e4b0302c9ba75a62,Pop's Diner,44-29B Kissena Blvd.,40.75328,-73.82204,Diner,22,424,1371,7.1,54,1
+"Queens, NY",599ca9691543c70fb0b07ac6,Corona Diner,91-28 Corona Ave,40.74239,-73.87245,Diner,3,50,105,7.1,13,1
+"Queens, NY",4b929a4bf964a520cb0834e3,Briarwood Cafe,13849 Queens Blvd,40.70782,-73.81747,Diner,3,235,723,7.1,12,2
+"Brooklyn, NY",4a3e647cf964a520e3a21fe3,Emphasis,6822 4th Ave,40.63483,-74.02359,Diner,13,568,1691,7.1,44,1
+"Manhattan, NY",4d7680e9fafba1433c09e1e6,Comfort Diner,214 E 45th St,40.75234,-73.97245,Diner,98,2815,4212,7,278,2
+"Manhattan, NY",4ccc8124c0378cfa0f2a8748,Metro Diner,2641 Broadway,40.79737,-73.97019,Diner,108,3172,6344,7,285,2
+"Manhattan, NY",4b09a292f964a520b91a23e3,Malibu Diner NYC,163 W 23rd St,40.74401,-73.99507,Diner,48,2806,5070,7,213,1
+"Manhattan, NY",4733656ef964a520294c1fe3,The Flame Restaurant,893 9th Ave,40.76844,-73.98532,Diner,70,3324,6587,7,242,2
+"Manhattan, NY",4bf82d4e4a67c928beef24cf,Westside Restaurant,2020 Broadway,40.77611,-73.98214,Diner,48,3357,5741,7,194,2
+"Manhattan, NY",3fd66200f964a520cde81ee3,Barking Dog,1678 3rd Ave,40.78393,-73.9503,Diner,80,3297,6191,7,225,0
+"Manhattan, NY",4c6be3189669e21e6fe3ab51,Andy's Coffee Shop,2262 3rd Ave,40.80242,-73.93673,Diner,6,148,486,7,21,0
+"Manhattan, NY",4ba2273ff964a520a4df37e3,Jimbo's Hamburger Palace,535 Malcolm X Blvd,40.81522,-73.94001,Diner,21,579,1752,7,88,0
+"Manhattan, NY",46bf2572f964a520e4491fe3,Viand Coffee Shop,673 Madison Ave,40.76484,-73.97044,Diner,50,1782,2710,7,140,0
+"Manhattan, NY",4b5f42f1f964a520a2b029e3,Squire's Diner,80 Beekman St,40.70865,-74.00408,Diner,28,1022,2652,7,110,1
+"Manhattan, NY",4e270fb8aeb766362539915e,Mike's Diner,140 New Dorp Ln,40.571,-74.11069,Diner,8,351,776,7,32,2
+"Bronx, NY",505223ade4b0252d0552ef9a,Tiny's Diner,3603 Riverdale Ave,40.88665,-73.90722,Diner,10,154,364,7,27,2
+"Queens, NY",4b78315cf964a5202fbb2ee3,Esquire Diner,105-45 Crossbay Blvd,40.67898,-73.84372,Diner,22,767,1769,7,88,2
+"Queens, NY",4be6e78acf200f4778fa143c,Sherwood Diner,311 Rockaway Tpke,40.62553,-73.73627,Diner,24,725,1806,7,86,2
+"Brooklyn, NY",4a12b724f964a52090771fe3,Park Plaza Diner,220 Cadman Plaza,40.69779,-73.99168,Diner,51,2071,4282,7,194,2
+"Staten Island, NY",4b5870f7f964a520df5728e3,Perkins Restaurant & Bakery,1409 Hylan Blvd,40.59442,-74.087,Diner,21,696,1934,7,80,2
+"Manhattan, NY",4a070bb3f964a5201e731fe3,Midnight Express Diner,1715 2nd Ave,40.77977,-73.95043,Diner,74,2827,6092,6.9,263,2
+"Manhattan, NY",3fd66200f964a52065e71ee3,Gemini Restaurant,641 2nd Ave,40.74544,-73.97548,Diner,49,2079,4174,6.9,132,2
+"Manhattan, NY",4bf5663994af2d7f15a93b72,Andrews Coffee Shop,463 7th Ave,40.7515,-73.99018,Diner,117,4754,7106,6.9,372,0
+"Manhattan, NY",524a2b4711d2221324d18f97,The Rail Line Diner,400 W 23rd St,40.74638,-74.00148,Diner,27,2280,3954,6.9,106,0
+"Manhattan, NY",4af2eb34f964a52030e921e3,Coral Restaurant,3801 Broadway,40.83487,-73.94461,Diner,21,469,1049,6.9,46,0
+"Manhattan, NY",4b71a0b3f964a52014522de3,Jimbo's Hamburger Palace,284 Malcolm X Blvd,40.80745,-73.94582,Diner,12,247,445,6.9,24,0
+"Manhattan, NY",3fd66200f964a520e0f11ee3,Cozy Soup 'n Burger,739 Broadway,40.73011,-73.99304,Diner,120,5129,8919,6.9,337,0
+"Manhattan, NY",46260d36f964a520bb451fe3,Cafe 57,300 W 57th St,40.76629,-73.98352,Diner,20,992,9675,6.9,54,0
+"Queens, NY",4aad5cb2f964a520e85f20e3,Glendale Diner,7108 Myrtle Ave,40.70202,-73.8798,Diner,36,730,2699,6.9,89,1
+"Queens, NY",4b8be89bf964a520cab132e3,New York Grill,6516 Myrtle Ave,40.70118,-73.88963,Diner,13,210,1286,6.9,40,2
+"Queens, NY",4c1966e86a21c9b6dc8dca97,Rubio's Cafe,98-05 Northern Blvd,40.75735,-73.8702,Diner,16,310,508,6.9,46,2
+"Brooklyn, NY",4aec86faf964a52045c821e3,Manhattan Three Decker,695 Manhattan Ave,40.72533,-73.95166,Diner,28,1037,2707,6.9,101,1
+"Brooklyn, NY",4abe337df964a520f08b20e3,McDonald Avenue Diner,1111 McDonald Ave,40.6262,-73.9763,Diner,4,94,245,6.9,8,1
+"Staten Island, NY",4b7daa07f964a52033cd2fe3,Colonnade,2001 Hylan Blvd,40.58106,-74.09873,Diner,23,829,1858,6.9,89,2
+"Staten Island, NY",4d2cb8b7679e6dcb7b76a895,The Richmond Diner,3954 Richmond Ave,40.54175,-74.16303,Diner,7,174,531,6.9,15,2
+"Staten Island, NY",4c63454eedd320a1d223af29,Mike's Place,4677 Hylan Blvd,40.52915,-74.16227,Diner,9,517,1017,6.9,40,2
+"Manhattan, NY",4ed6c7c577c86e4f2ac57c4c,Orion Diner & Grill,395 2nd Ave,40.73791,-73.98103,Diner,51,2372,4850,6.8,172,2
+"Manhattan, NY",4a1b592ef964a520ee7a1fe3,Good Stuff Diner,109 W 14th St,40.73766,-73.99745,Diner,87,5677,10723,6.8,348,0
+"Manhattan, NY",4165d880f964a5207b1d1fe3,Coopertown Diner,339 1st Ave,40.73486,-73.97988,Diner,22,1208,2955,6.8,71,0
+"Manhattan, NY",4b282b9af964a520309024e3,The New Amity Restaurant,1134 Madison Ave,40.7798,-73.95966,Diner,17,764,1604,6.8,55,0
+"Manhattan, NY",3fd66200f964a520b6ea1ee3,Odessa,119 Avenue A,40.72642,-73.98341,Diner,79,3553,7523,6.8,200,0
+"Bronx, NY",4bb2e2444019a593726837b8,Crown Donut Family Restaurant,79 E 161st St,40.82782,-73.92478,Diner,27,774,1716,6.8,68,2
+"Queens, NY",4cd5eef37da9a35de6cfecb9,Avenita,8330 Parsons Blvd,40.71506,-73.80758,Diner,8,186,939,6.8,31,1
+"Queens, NY",4a8995a1f964a5207b0820e3,Sunset Diner,593 Meeker Ave,40.72161,-73.94178,Diner,17,708,1750,6.8,66,2
+"Queens, NY",4a1a8bcff964a520977a1fe3,Blue Bay Diner,5850 Francis Lewis Blvd,40.74394,-73.77611,Diner,80,2510,5195,6.8,252,2
+"Queens, NY",45e16189f964a52029431fe3,Mike's Diner,2237 31st St,40.77526,-73.91159,Diner,54,1330,3803,6.8,107,2
+"Brooklyn, NY",4bc24f5fabf49521275ec293,Parkview Diner,2937 W 17th St.,40.58342,-73.98629,Diner,46,1382,3900,6.8,162,2
+"Brooklyn, NY",4a9b0f87f964a5203e3420e3,Floridian Diner,2301 Flatbush Ave,40.61417,-73.92697,Diner,53,1166,3379,6.8,146,2
+"Brooklyn, NY",436d4780f964a520d4291fe3,Daisy's Diner,452 5th Ave,40.66897,-73.98662,Diner,47,2250,4565,6.8,174,1
+"Manhattan, NY",4a5e2122f964a5200fbe1fe3,The Red Flame,67 W 44th St,40.75599,-73.9827,Diner,92,4684,8189,6.7,345,0
+"Manhattan, NY",415c9e00f964a520501d1fe3,Tom's Restaurant,2880 Broadway,40.80544,-73.96533,Diner,193,8463,11488,6.7,643,0
+"Manhattan, NY",4a3d6878f964a5203ca21fe3,Ritz Diner,1133 1st Ave,40.76153,-73.96055,Diner,54,2633,4946,6.7,160,0
+"Manhattan, NY",3fd66200f964a520b4e31ee3,Skylight Diner,402 West 34th Street,40.75338,-73.99679,Diner,107,5916,9258,6.7,445,0
+"Manhattan, NY",4a704cebf964a52045d71fe3,Morning Star Restaurant,879 9th Ave,40.76807,-73.98563,Diner,37,1789,2643,6.7,134,0
+"Manhattan, NY",4bf4254d706e20a1ebfda898,Big Daddy's,2454 Broadway,40.79115,-73.97391,Diner,100,3798,7695,6.7,262,0
+"Manhattan, NY",4d5ecb2bb19fa1437592dec8,94 Corner Cafe,2518 Broadway,40.79318,-73.97256,Diner,31,973,2336,6.7,80,0
+"Manhattan, NY",485a1e45f964a520c2501fe3,Remedy Diner,245 E Houston St,40.72173,-73.98551,Diner,139,6334,11099,6.7,452,1
+"Queens, NY",4bc09718920eb7137b1f192c,USA Diner,24303 Merrick Blvd,40.67437,-73.72977,Diner,24,703,1668,6.7,80,2
+"Brooklyn, NY",4a8b8ccbf964a520a30c20e3,Carroll Gardens Classic Diner,155 Smith St,40.68656,-73.99056,Diner,39,2049,4080,6.7,143,2
+"Brooklyn, NY",49e0f7b9f964a52085611fe3,Purity Diner,289 7th Ave,40.66811,-73.98048,Diner,24,1552,3424,6.7,102,1
+"Brooklyn, NY",4a95cc7ff964a520c22420e3,Cibao,172 Smith St,40.68576,-73.99112,Diner,14,503,1071,6.7,40,1
+"Manhattan, NY",4a367fb6f964a520a19d1fe3,Cosmic Diner,888 8th Ave,40.76371,-73.9851,Diner,82,5323,7714,6.6,265,0
+"Manhattan, NY",4ae46dd7f964a5208b9a21e3,3 Decker Restaurant,1746 2nd Ave,40.78102,-73.94944,Diner,23,760,1698,6.6,62,0
+"Manhattan, NY",4a5b6773f964a5201bbb1fe3,Star On 18 Diner Cafe,128 10th Ave,40.74458,-74.00641,Diner,28,1093,2368,6.6,87,0
+"Manhattan, NY",4abfa568f964a5206e9120e3,Townhouse Cafe,696 2nd Ave,40.74696,-73.97415,Diner,17,601,1340,6.6,52,0
+"Manhattan, NY",4cab7765d971b1f751422be1,42nd Street Restaurant and Pizza,647 W 42nd St,40.76163,-74.00017,Diner,8,187,217,6.6,19,2
+"Queens, NY",4d1259a9ffa36ea8cd51f8da,Yankee Clipper,LGA Marine Air Terminal,40.77357,-73.88589,Diner,12,323,1033,6.6,33,1
+"Queens, NY",4c1f2402bd9d95219537983f,East Market Diner,2592 Atlantic Ave,40.67547,-73.89857,Diner,7,155,456,6.6,22,1
+"Queens, NY",4beeb6df3686c9b66bd2246e,College Point Diner,14-32 College Point Blvd,40.78491,-73.84582,Diner,5,80,295,6.6,9,1
+"Queens, NY",56995604498e4db57bccaf6d,Denny's,8710 Northern Blvd,40.75586,-73.8805,Diner,3,195,441,6.6,24,2
+"Queens, NY",4a58f1b5f964a5203eb81fe3,Tasty's Diner,33-04 Ditmars Blvd,40.77528,-73.90953,Diner,41,1286,3712,6.6,101,1
+"Brooklyn, NY",53a1997a498efe2b536e6ad4,Las Lunitas,195 Stanhope St,40.69997,-73.92121,Diner,11,91,190,6.6,28,1
+"Brooklyn, NY",4be173f2c1732d7f01085c9a,Dennis Place Diner,1701 Pitkin Ave,40.66976,-73.91042,Diner,2,59,282,6.6,8,1
+"Brooklyn, NY",4e4591c4aeb70e74f4887ce5,Richard's Diner,9606 Avenue L,40.63828,-73.89568,Diner,6,55,140,6.6,9,1
+"Brooklyn, NY",4aec3f7ef964a520aac521e3,Columbus Restaurant & Deli,6610 18th Ave,40.61836,-73.99115,Diner,9,97,584,6.6,17,1
+"Brooklyn, NY",4b6ee91af964a52089d02ce3,Mike's Diner,630 Utica Ave,40.65818,-73.9312,Diner,15,442,1319,6.6,54,2
+"Brooklyn, NY",4fe5e329e4b08674ca2c27e4,Borough Restaurant,338 Franklin Ave,40.68754,-73.957,Diner,16,617,1196,6.6,67,2
+"Staten Island, NY",4defd6d5d164e99c7b459124,Z-Two Diner & Lounge; 24 Hrs,2925 Veterans Rd W,40.52729,-74.23081,Diner,504,1482,3208,6.6,118,2
+"Staten Island, NY",4d4b50caa154721ebd626fcf,Superior Diner,Smith St,40.51295,-74.28276,Diner,8,148,412,6.6,23,1
+"Manhattan, NY",4a5aa675f964a520b5ba1fe3,Green Kitchen,1477 1st Ave,40.77096,-73.95388,Diner,50,2400,5345,6.5,165,0
+"Manhattan, NY",460f5ae4f964a5201e451fe3,Morning Star Cafe,949 2nd Ave,40.75519,-73.96838,Diner,39,2357,4541,6.5,122,0
+"Manhattan, NY",52654e46498e8db8834a7e53,Trend Diner,1382 2nd Ave,40.76823,-73.95873,Diner,13,483,699,6.5,56,0
+"Manhattan, NY",4aa28cd7f964a520e04120e3,Cafe Eighty Two,2282 Broadway,40.78589,-73.9785,Diner,24,995,1935,6.5,68,0
+"Manhattan, NY",4a9e6c7ef964a5202e3a20e3,Palace Restaurant,122 E 57th St,40.76126,-73.96965,Diner,21,951,1394,6.5,62,2
+"Manhattan, NY",4ade7510f964a520fc7521e3,Theatre Row Diner,424 W 42nd St,40.75879,-73.9938,Diner,29,1939,3084,6.5,166,2
+"Manhattan, NY",4b37d7fdf964a5204d4725e3,East Side Cafe,352 E 23rd St,40.737,-73.97877,Diner,12,790,1931,6.5,44,1
+"Manhattan, NY",4afd661af964a520982722e3,Amelia's Restaurant,110 Varick St,40.7246,-74.00602,Diner,26,1203,2694,6.5,83,2
+"Manhattan, NY",4a9168cdf964a5201c1a20e3,Pearl Diner,212 Pearl St,40.70696,-74.00629,Diner,53,1930,3529,6.5,179,1
+"Bronx, NY",4b228437f964a520274824e3,Blue Bay Restaurant,3533 Johnson Ave,40.88636,-73.9099,Diner,14,322,1288,6.5,32,2
+"Brooklyn, NY",4d4ae02c5241236aaf478404,Spiros Restaurant,2103 Avenue U,40.59958,-73.95023,Diner,2,129,447,6.5,14,2
+"Brooklyn, NY",5a1c371ab9a5a84b6344eb14,The Bushwick Diner,299 Wyckoff Ave,40.70039,-73.91257,Diner,3,60,139,6.5,14,1
+"Brooklyn, NY",4cf298e588de37042b017a2b,Grant Caffe,1170 Liberty Ave,40.67762,-73.86422,Diner,2,121,1856,6.5,16,1
+"Manhattan, NY",4b5c5b25f964a520362c29e3,Neil's Coffee Shop,961 Lexington Ave,40.76904,-73.96315,Diner,40,2297,3649,6.4,129,0
+"Manhattan, NY",4af074a2f964a5203fdc21e3,Hector's Cafe & Diner,44 Little West 12th St,40.7403,-74.00795,Diner,25,1158,1883,6.4,79,1
+"Manhattan, NY",5343e85d498ee3a87c5ca1fe,Gracie's Corner Diner,352 E 86th St,40.77778,-73.95181,Diner,21,684,1235,6.4,79,1
+"Manhattan, NY",49d7e435f964a520755d1fe3,Azuki Sushi,520 8th Ave,40.75357,-73.99251,Diner,25,1405,2342,6.4,56,2
+"Queens, NY",4b8d2f91f964a52025ec32e3,Silver Spoon Diner,58-21 Junction Blvd,40.73532,-73.86495,Diner,19,357,997,6.4,45,2
+"Queens, NY",4bd620c07b1876b008108c86,Red Cafe,4462 21st St,40.74806,-73.94742,Diner,7,342,1008,6.4,39,1
+"Queens, NY",4ba50053f964a520b2ce38e3,Parsons Diner,25-27 A Parsons Blvd,40.77595,-73.82354,Diner,3,98,555,6.4,15,1
+"Queens, NY",4b126ee7f964a520da8923e3,7 Stars Diner,13209 14th Ave,40.78678,-73.83579,Diner,7,232,507,6.4,21,1
+"Brooklyn, NY",4a00fcfcf964a520cb701fe3,Fifth Avenue Diner,432 5th Ave,40.66954,-73.98605,Diner,24,1257,3014,6.4,80,1
+"Brooklyn, NY",4f9c021ae4b0d2a3a901a018,Terry's Cafe & Grill,1071 Broadway,40.69573,-73.92975,Diner,7,144,402,6.4,15,1
+"Brooklyn, NY",4afd8754f964a520532822e3,Lighthouse Cafe,7506 3rd Ave,40.63126,-74.02786,Diner,6,220,1067,6.4,15,1
+"Staten Island, NY",4bbd26f14e069c7409779ee3,Mike's Place,1637 Forest Ave,40.62492,-74.14356,Diner,16,582,1223,6.4,40,2
+"Manhattan, NY",4b01b98df964a520e04422e3,Olympic Flame Diner,200 W 60th St,40.77109,-73.98719,Diner,39,2029,5866,6.3,164,0
+"Manhattan, NY",4ad2b59ff964a52088e220e3,Silver Star Diner,1238 2nd Ave,40.76436,-73.96165,Diner,43,1621,3856,6.3,130,0
+"Manhattan, NY",4f949d25e4b03330ab2e7a2b,Jack's Sliders and Sushi,171 3rd Ave,40.73483,-73.98616,Diner,37,1247,1790,6.3,128,2
+"Bronx, NY",4c190682fe5a76b0c9ee0215,Munch Time,21 E 170th St,40.83938,-73.91699,Diner,3,121,1220,6.3,16,1
+"Bronx, NY",4c2cb1d88ef52d7f944533ba,City View Diner,901 Sheridan Ave,40.82697,-73.92119,Diner,5,136,355,6.3,14,1
+"Bronx, NY",4d6d3ba1fbf0a0938d48fd8c,Di-Elle's Restaurant,800-824 Southern Blvd,40.81712,-73.89643,Diner,5,27,280,6.3,8,1
+"Queens, NY",4c561e79fb5aa59306f32c7f,Daybreak Cafe,45-01 34th Ave,40.75477,-73.91674,Diner,8,212,561,6.3,19,1
+"Queens, NY",4f500fd2e4b0b0fc193e760c,Turnpike Cafe,187-20 Union Tpke,40.72897,-73.78134,Diner,8,51,94,6.3,9,1
+"Brooklyn, NY",4a2bf022f964a520f5961fe3,Sunset Park Diner and Donuts,889 5th Ave,40.65135,-74.00379,Diner,28,870,2311,6.3,86,1
+"Brooklyn, NY",4a737c4cf964a52093dc1fe3,The Bridgeview Diner,9011 3rd Ave,40.62048,-74.03168,Diner,35,1540,3436,6.3,132,1
+"Brooklyn, NY",500aac8ce4b08ffd59986f0b,Bath Beach Diner,2028 Bath Ave,40.60085,-74.00079,Diner,4,103,320,6.3,21,1
+"Brooklyn, NY",4c6f2d4a2930bfb7885cf380,Parkway Restaurant,7504 13th Ave,40.62017,-74.00762,Diner,4,189,462,6.3,10,3
+"Brooklyn, NY",4c41a4bbaf052d7f079d7d79,Parkside Coffee Shop and Diner,188 Parkside Ave,40.65508,-73.9615,Diner,5,99,405,6.3,9,1
+"Staten Island, NY",4bcdcee8511f9521542eb5c7,Z-One Diner & Lounge,1821 Richmond Ave,40.60426,-74.16214,Diner,48,1841,4066,6.3,146,2
+"Manhattan, NY",45f3f480f964a520f2431fe3,Hollywood Diner,574 Avenue of the Americas,40.73868,-73.9957,Diner,77,4432,7355,6.2,233,2
+"Manhattan, NY",4a22898cf964a520717d1fe3,Applejack Diner,1725 Broadway,40.76462,-73.98235,Diner,33,2655,3600,6.2,134,2
+"Manhattan, NY",49fa0280f964a520a76d1fe3,The Park Cafe,861 7th Ave,40.76422,-73.9808,Diner,35,2429,3158,6.2,141,2
+"Manhattan, NY",561beb45498e7f337eb75a7b,Stage Door Delicatessen,360 9th Ave,40.75115,-73.99797,Diner,3,134,192,6.2,13,1
+"Manhattan, NY",4b16b040f964a52014bc23e3,Guy & Gallard,1001 Avenue of the Americas,40.75205,-73.98611,Diner,31,720,3351,6.2,59,2
+"Bronx, NY",4b916eddf964a5201bbc33e3,Golden Eagle Diner,975 Morris Park Ave,40.84781,-73.85702,Diner,10,243,755,6.2,38,2
+"Bronx, NY",4d28b52d068e8cfaf463c84c,The New Ranch Restaurant,1619 Westchester Ave,40.82962,-73.87464,Diner,7,111,402,6.2,8,1
+"Queens, NY",4bafc3e7f964a520fa1e3ce3,Whitestone Diner,149-21 14th Ave,40.7886,-73.81537,Diner,7,231,531,6.2,22,2
+"Brooklyn, NY",507ebcd4e4b071f5ef6ab503,Paphos Diner,2501 Fulton St,40.67731,-73.90116,Diner,9,153,291,6.2,29,1
+"Brooklyn, NY",4bd4dcf5cfa7b713ce0a25da,Grand Canyon Diner,179 7th Ave,40.67151,-73.97776,Diner,18,542,1266,6.2,45,2
+"Manhattan, NY",3fd66200f964a520bce31ee3,Tick Tock Diner,481 8th Ave,40.75213,-73.99361,Diner,261,14597,20925,6.1,774,2
+"Manhattan, NY",4bf716e013aed13a67cdeaf7,Capitol Restaurant,207th and Broadway,40.86768,-73.92146,Diner,12,165,488,6.1,20,1
+"Manhattan, NY",4c435af0dd1f2d7f9a5e7ef9,Brooklyn Bridge Cafe,63 Tillary St,40.6963,-73.98845,Diner,13,762,867,6.1,102,1
+"Bronx, NY",4c8586dfe602b1f70cc9b87a,Dyre Ave Diner,3803 Dyre Ave,40.88797,-73.83141,Diner,4,99,287,6.1,19,1
+"Bronx, NY",4bb2a2d1a32876b0b7e900fe,Justine Restaurant,28 E 167th St,40.8355,-73.92144,Diner,7,181,371,6.1,20,3
+"Queens, NY",4b897964f964a520b63932e3,Cozy Diner,1409 150th St,40.78847,-73.8137,Diner,1,121,760,6.1,18,2
+"Queens, NY",4b6dbeeff964a520d98b2ce3,Dorian Cafe,4901 Vernon Blvd.,40.74275,-73.95399,Diner,34,1103,3120,6.1,82,1
+"Queens, NY",4b86ae6ff964a520f29531e3,Skyline Diner,271-27 Union Tpke,40.75238,-73.70193,Diner,10,689,1391,6.1,66,1
+"Brooklyn, NY",4ab1d8b8f964a5209e6a20e3,Happy Days Diner,148 Montague St,40.69454,-73.99334,Diner,22,1366,2323,6.1,87,1
+"Brooklyn, NY",4a62af49f964a52073c41fe3,Denny's Steak Pub,106 Beverley Rd,40.63947,-73.97976,Diner,13,251,1014,6.1,25,1
+"Brooklyn, NY",4fc15aeee4b01d45bea52d34,Tom's Restaurant,1229 Boardwalk W,40.57324,-73.98065,Diner,19,1336,1936,6.1,85,2
+"Staten Island, NY",4e95716f775b163c4d8a5e53,Seaport Diner,798 Dowd Ave,40.6739,-74.19111,Diner,3,136,260,6.1,8,1
+"Manhattan, NY",46c4e7f4f964a520014a1fe3,Moonstruck on Third,449 3rd Ave,40.74388,-73.97946,Diner,37,3188,5113,6,110,2
+"Manhattan, NY",4e6e0879b9932d7f63c49135,Lucky's Cafe,593 1st Ave,40.74374,-73.97367,Diner,20,888,1694,6,54,2
+"Manhattan, NY",4a0c2e14f964a52013751fe3,Galaxy Diner,665 9th Ave,40.76106,-73.99087,Diner,90,5233,8691,6,237,2
+"Manhattan, NY",4a8b12c1f964a5205f0b20e3,Nectar,1090 Madison Ave,40.77832,-73.96071,Diner,29,1358,1810,6,114,3
+"Queens, NY",4be57f74910020a12c02d314,Metro Diner,7324 Metropolitan Ave,40.71282,-73.87861,Diner,11,321,928,6,28,2
+"Brooklyn, NY",3fd66200f964a52048ee1ee3,Kellogg's Diner,518 Metropolitan Ave,40.71383,-73.95184,Diner,160,8963,16046,6,655,2
+"Staten Island, NY",4a4171aef964a52051a51fe3,New Dakota Diner,921 Richmond Ave,40.62488,-74.14879,Diner,10,630,1290,6,38,2
+"Manhattan, NY",4b59b4fdf964a520e79328e3,Three Guys Restaurant,960 Madison Ave,40.77409,-73.96384,Diner,28,1166,2677,5.9,94,3
+"Manhattan, NY",4a9c1899f964a520f73520e3,Salt & Pepper,139 W 33rd St,40.75,-73.99018,Diner,15,553,904,5.9,37,1
+"Queens, NY",4c66b7dc9cb82d7f084b91d2,101 Café,98-05 101st Ave,40.6851,-73.84325,Diner,4,61,215,5.9,9,1
+"Brooklyn, NY",4e738451ae6050af79ebf95b,Neptune Diner II,669 Classon Ave,40.67657,-73.95926,Diner,38,1528,3192,5.9,168,1
+"Brooklyn, NY",4bcdd52e937ca593495fad92,Mega Bites Diner,245 Dekalb Ave,40.68953,-73.96944,Diner,15,686,1704,5.9,49,1
+"Staten Island, NY",59132bb02be4251e38174299,Denny's,4370 Amboy Rd,40.54448,-74.16081,Diner,0,71,134,5.9,8,1
+"Manhattan, NY",4bae2df6f964a520688e3be3,New Wave Cafe,2210 Broadway,40.78336,-73.97993,Diner,16,618,1114,5.8,51,1
+"Manhattan, NY",54b7b8c4498ebba2b1dd4dbb,Moonstruck at Bellevue,462 1st Ave,40.73903,-73.97581,Diner,1,39,160,5.8,9,1
+"Manhattan, NY",4a9dd372f964a520903920e3,Moonstruck Diner,250 E 58th St,40.76004,-73.96488,Diner,20,1697,2611,5.8,66,3
+"Manhattan, NY",4acea30ff964a52084d120e3,Martinique Cafe,1260 Broadway,40.74848,-73.98791,Diner,39,2181,2914,5.8,154,2
+"Manhattan, NY",4c1e55c7b9f876b05cec7e46,Multi Tastes Diner,23 Saint James Pl,40.71142,-74.00016,Diner,4,151,357,5.8,14,1
+"Queens, NY",4ba7b84ff964a520deac39e3,Van Dam Diner,44-55 Van Dam Street,40.74304,-73.93394,Diner,15,442,1001,5.8,38,2
+"Brooklyn, NY",4bcb14e80687ef3b0ff6dccc,Cathys Place,9526 4th Ave,40.61549,-74.03152,Diner,3,124,430,5.8,10,2
+"Brooklyn, NY",4bb8ca6298c7ef3b0f683102,Vikki's Restaurant,5924 Avenue N,40.61957,-73.91751,Diner,7,205,552,5.8,23,3
+"Manhattan, NY",583d9c559f8b8630b5a4bd37,Tivoli Diner,283 3rd Ave,40.73816,-73.98353,Diner,7,273,687,5.7,43,3
+"Manhattan, NY",4e4cbe73bd413c4cc66bd030,3 Guys,1232 Madison Ave,40.7826,-73.9575,Diner,12,613,915,5.7,41,3
+"Manhattan, NY",4b212aaaf964a520993724e3,Lenox Hill Grill,1105 Lexington Ave,40.77385,-73.95972,Diner,27,1074,1423,5.7,69,2
+"Manhattan, NY",4b3e8dd7f964a520d89e25e3,Route 66 Cafe,858 9th Ave,40.76705,-73.98639,Diner,63,3040,4176,5.7,182,2
+"Manhattan, NY",4b3e7943f964a520b19d25e3,Ma-n-Pop Soul Food,349 Lewis Ave,40.68361,-73.93519,Diner,14,207,385,5.7,25,1
+"Manhattan, NY",4b6cfcacf964a520b5612ce3,Golden Dove,3281 Richmond Ave,40.55914,-74.16924,Diner,21,836,2000,5.7,63,2
+"Bronx, NY",4afe3c88f964a520e12e22e3,Pelham Bay Diner,1920 E Gun Hill Rd,40.86187,-73.83105,Diner,28,1059,2193,5.7,93,2
+"Queens, NY",5097f625e4b0f7170484afa2,New maspeth diner,6535 Grand Ave,40.72377,-73.89982,Diner,3,54,68,5.7,8,2
+"Queens, NY",4bca2ec1511f95215d41afc7,Lollipop's Diner,15331 Cross Island Pkwy,40.78775,-73.80942,Diner,5,312,770,5.7,24,1
+"Manhattan, NY",4b1bce16f964a5208ffd23e3,Triple A Restaurant,2061 2nd Ave,40.79101,-73.94313,Diner,4,225,1582,5.6,22,1
+"Manhattan, NY",3fd66200f964a5204ae71ee3,Sunflower Diner,359 3rd Ave,40.74074,-73.98171,Diner,32,2276,4034,5.6,102,2
+"Queens, NY",52d6cc29498e9295c2534a8a,Griddle Cafe Deli,30-18 Hunters Point Ave,40.74047,-73.93755,Diner,1,51,132,5.6,9,1
+"Queens, NY",4b5f5f77f964a520afb629e3,Village Diner,81-74 Lefferts Blvd,40.70771,-73.83121,Diner,10,440,1307,5.6,36,1
+"Staten Island, NY",4ade8fcef964a5205d7621e3,Kings Arms Diner,500 Forest Ave,40.63038,-74.10698,Diner,16,635,1835,5.6,41,2
+"Staten Island, NY",4b6d1b17f964a52012672ce3,The Olympic Grill (Port Richmond),Forest Ave,40.6249,-74.14349,Diner,2,162,295,5.6,10,2
+"Manhattan, NY",4a2d9bc0f964a520d4971fe3,Ridgeway Diner,664 Avenue of the Americas,40.74137,-73.99391,Diner,17,1315,2662,5.5,86,1
+"Manhattan, NY",4bf88827b182c9b695b6775a,Sutton Cafe,1026 1st Ave,40.75781,-73.9634,Diner,5,183,395,5.5,11,2
+"Manhattan, NY",57052317498ec279024428fd,fillmore delicatessen,1668 3rd Ave,40.78351,-73.95048,Diner,5,123,344,5.5,16,1
+"Queens, NY",4a90286ef964a520451620e3,Tastee Corner,30-20 30th Ave,40.76689,-73.92152,Diner,26,908,2459,5.5,54,1
+"Queens, NY",4abda7aef964a520418b20e3,T-Bone Diner,10748 Queens Blvd,40.72168,-73.84454,Diner,30,975,1980,5.5,66,1
+"Manhattan, NY",4aa90e5ef964a520e95120e3,Eat Here Now,839 Lexington Ave,40.76523,-73.96599,Diner,51,1850,2519,5.4,123,1
+"Manhattan, NY",4a97f876f964a520002a20e3,Country House Diner,887 Fulton Street,40.68366,-73.96773,Diner,6,299,551,5.4,22,1
+"Brooklyn, NY",4b43f4baf964a520f8ee25e3,Green Pavilion Restaurant,4307 18th Ave,40.63107,-73.97629,Diner,5,77,191,5.4,12,2
+"Brooklyn, NY",4aab362bf964a520405920e3,Frank's Gourmet Deli,365 Smith St,40.67928,-73.99558,Diner,8,260,992,5.4,15,1
+"Staten Island, NY",4c4298ace26920a1186660e7,Liberty Diner,321 E Edgar Rd,40.63019,-74.24061,Diner,13,188,383,5.4,20,1
+"Manhattan, NY",4a932ef2f964a5201e1f20e3,Moonstruck,244 Madison Ave,40.75034,-73.9814,Diner,32,2805,4721,5.3,154,1
+"Manhattan, NY",4a897cb1f964a5201f0820e3,3 Guys Restaurant,49 E 96th St,40.78744,-73.95404,Diner,16,854,1610,5.1,60,2
+"Manhattan, NY",51f1701a498ea2987b0c576d,38th Street Diner,,40.75163,-73.98425,Diner,2,60,61,5.1,8,1
+"Queens, NY",535d8a64498edcf9a501610b,Central Diner,Terminal 4,40.64428,-73.78289,Diner,19,1151,1317,5.1,107,1
+"Queens, NY",4b9d1badf964a5205f9036e3,Austin House Diner Restaurant,7204 Austin St,40.71934,-73.84247,Diner,7,328,768,5,21,1
+"Queens, NY",5346c6bf498eca4767ffc0ab,Central Diner,,40.6453,-73.78322,Diner,4,29,29,5,10,1
+"Manhattan, NY",4ac7a3ddf964a520b1b820e3,Raffles Cafe,511 Lexington Ave,40.75517,-73.97343,Diner,33,1650,2139,4.9,95,3
+"Manhattan, NY",52222e2611d2c730389a596b,Roxy Diner,694 8th Ave,40.75847,-73.98869,Diner,26,1196,1288,4.9,108,2
+"Brooklyn, NY",52d1fae8498ede513bb6dbea,Denny's,805 Pennsylvania Ave,40.65819,-73.88985,Diner,11,202,354,4.9,47,2
+"Manhattan, NY",4d05145737036dcb3f9614fb,Jimmy's American Grill & Bar,990 Avenue of the Americas,40.75122,-73.98675,Diner,41,1761,2319,4.8,108,2
+"Manhattan, NY",4ad21346f964a52042df20e3,Lindy's,825 7th Ave,40.76302,-73.98213,Diner,128,3862,4178,4.7,275,3
+"Queens, NY",543db07c498eef542d352e1d,Dolphin Diner,162-16 Union Tpke,40.72131,-73.80492,Diner,6,50,65,4.7,13,1
+"Manhattan, NY",45f0385ef964a520bc431fe3,Bon Vivant Diner,820 Broadway,40.73297,-73.99127,Diner,3,65,91,0,0,2
+"Manhattan, NY",4cbe42a4021ca1431f64540c,"46 St Restaurant Row, Nyc",,40.75988,-73.99114,Diner,0,22,26,0,0,1
+"Manhattan, NY",57656cfe498ebf269a1cb1a9,Avenue Diner,1074 2nd Ave,40.7591,-73.96563,Diner,3,65,94,0,0,1
+"Manhattan, NY",52dc2828498e504e65487eed,Liberty dinner,,40.75711,-73.98865,Diner,0,19,20,0,0,1
+"Manhattan, NY",555f3d0c498e2f2bd5d64143,Townhouse Diner,696 2nd Ave,40.74707,-73.97421,Diner,1,72,133,0,0,1
+"Manhattan, NY",4c201335eac020a110204cc2,Galaxy Diner,174 8th Ave,40.7428,-74.00028,Diner,0,128,206,0,0,1
+"Manhattan, NY",532e03bf498e770736e88b86,Ocelotl Diner,2247 1st Ave,40.79557,-73.93539,Diner,1,10,43,0,0,1
+"Manhattan, NY",4d7145eacea9236a185d441b,Foodoni,26-19 23rd Ave.,40.77617,-73.91525,Diner,5,116,289,0,0,1
+"Manhattan, NY",4e45c0541fc7ad3398cb486e,J & J Coffee Shop,442 E 14th St,40.73049,-73.98065,Diner,1,33,36,0,0,1
+"Manhattan, NY",4e4c4d59bd413c4cc6685928,East Side Diner,325 3rd Ave,40.73809,-73.9882,Diner,0,52,52,0,0,1
+"Manhattan, NY",4ee96aae4690034a7f03eeba,502 Park Ave.,"502 Park Ave, New York, NY 10022",40.76347,-73.97017,Diner,0,17,21,0,0,1
+"Manhattan, NY",4a6c9576f964a520e6d01fe3,Frontier Coffee Shop,593 3rd Ave,40.74873,-73.97592,Diner,3,127,150,0,0,2
+"Manhattan, NY",536f96e2498e33148e1a32cb,Eat,,40.74721,-74.00442,Diner,0,19,35,0,0,1
+"Manhattan, NY",4e4e4d1ebd4101d0d7a73297,Fifth Avenue Restaurant & Diner,432 5th Ave,40.75316,-73.97983,Diner,1,14,14,0,0,1
+"Manhattan, NY",3fd66200f964a52052ea1ee3,Metropolitan Cafe,959 1st Ave,40.78565,-73.946,Diner,2,10,99,0,0,1
+"Manhattan, NY",4e4dc719bd41b76bef92f1e9,Euro Diner,738 8th Ave,40.7616,-73.98641,Diner,1,42,42,0,0,2
+"Manhattan, NY",4ba52786f964a520e5e438e3,Gramercy Diner,307 E 60th St,40.76121,-73.96192,Diner,0,21,23,0,0,1
+"Manhattan, NY",52234bdf11d230e7503ac259,Wimpy's Hamburger Place,2334 2nd Ave,40.79822,-73.93741,Diner,0,2,3,0,0,1
+"Manhattan, NY",4e4c4d7cbd413c4cc6685a13,Ambrosia Diner,273 1st Ave,40.73806,-73.98043,Diner,0,36,45,0,0,2
+"Manhattan, NY",5a64a3dafd9d7306e6b05dca,Café Royale,553 Walton Ave,40.81902,-73.92837,Diner,0,8,20,0,0,1
+"Manhattan, NY",5c9a6cb0a30619002c0120d6,City Slickers Diner,795 Columbus Ave,40.79431,-73.96634,Diner,1,9,10,0,0,1
+"Manhattan, NY",4c038bfb6c349c74265c750c,79th St Diner,1514 1st Ave,40.77214,-73.9529,Diner,3,58,70,0,0,1
+"Manhattan, NY",4dbc4907a86e0e98a1df7abe,Lenox Fast Food,657 Malcolm X Blvd,40.81909,-73.9372,Diner,3,34,93,0,0,1
+"Manhattan, NY",4c5ef6597735c9b6d42e9372,Sutton Place Diner,,40.75776,-73.96343,Diner,0,76,201,0,0,1
+"Manhattan, NY",507980a7498ec6be8d82bee9,Ashley's,2th,40.75507,-73.97369,Diner,0,30,68,0,0,1
+"Manhattan, NY",4e4dc70bbd41b76bef92f136,Tenth Avenue Diner,764 10th Ave,40.76401,-73.9937,Diner,0,10,17,0,0,2
+"Manhattan, NY",4c03f1d9f56c2d7f9a8a1d66,Amsterdam Pizza Restaurant,1343 Amsterdam Ave,40.81332,-73.95606,Diner,0,10,12,0,0,1
+"Manhattan, NY",4db8453af7b15ca52ce68b6f,Country Grill,789 9th Ave,40.76545,-73.98755,Diner,1,12,12,0,0,1
+"Manhattan, NY",580cd55338fa7459fd1a4a42,Cafe Dandy,1890 Adam Clayton Powell Jr Blvd,40.80248,-73.95349,Diner,0,2,2,0,0,1
+"Manhattan, NY",5366816a498e64837560d35b,Jg's On Madison,,40.809,-73.93863,Diner,0,7,7,0,0,1
+"Manhattan, NY",4f326d7f19836c91c7d6d2a8,Jimmy's Classic Diner,1634 Lexington Ave,40.79057,-73.94754,Diner,0,2,2,0,0,1
+"Manhattan, NY",4f20c23be4b06a634b3926ab,Hari Inn,157 E 32nd St,40.74507,-73.97926,Diner,0,8,55,0,0,1
+"Manhattan, NY",52c1c3c511d26ae1648b47d1,Annie's Kitchen,1502 West 134th Street,40.81823,-73.95274,Diner,0,0,0,0,0,1
+"Manhattan, NY",50550238e4b0ed8a0864414d,Kitchen At YMCA,,40.75336,-73.97104,Diner,0,7,8,0,0,1
+"Manhattan, NY",4fa97564c2ee3b0dd69a9793,Amtrak Pop Up Dining Car,6th Avenue,40.75929,-73.98089,Diner,0,0,0,0,0,1
+"Manhattan, NY",4a9f120ff964a520673c20e3,Gansevoort 69,69 Gansevoort St,40.73939,-74.00783,Diner,5,290,371,0,0,3
+"Manhattan, NY",4f3953fde4b0d9574efa0ea7,Halal Food Truck,325 W 15th St,40.73993,-74.00571,Diner,1,7,24,0,0,1
+"Manhattan, NY",4f32123b19833175d60da631,Chelsea Square Restaurant,368 W 23rd St,40.73704,-73.97889,Diner,0,8,9,0,0,2
+"Manhattan, NY",4e6a1661b61cc3728d6deb3f,George's Coffee Shop Diner,,40.83854,-73.94173,Diner,1,64,238,0,0,1
+"Manhattan, NY",4d62a3a9196ba0930c973256,Sunshine International Restaurant,202 Rivington St,40.71859,-73.98289,Diner,0,11,40,0,0,1
+"Manhattan, NY",4a0b0685f964a520bc741fe3,Hathies Coffee Shop,3915 Broadway,40.83866,-73.94152,Diner,3,59,197,0,0,1
+"Manhattan, NY",591456550313204b13a03777,49 Columbia Newsstand & Luncheonette,49 Columbia St,40.71712,-73.98023,Diner,0,10,121,0,0,1
+"Manhattan, NY",4e4c4d20bd413c4cc668576d,Happy 16 Diner,16 Pell St,40.71843,-73.99823,Diner,0,25,25,0,0,1
+"Manhattan, NY",5c37997cf5e9d7002cdf1962,Greek Shack,89 Canal St,40.7155,-73.99353,Diner,0,8,10,0,0,1
+"Manhattan, NY",5ca7b76fa30619002ca5e94f,Two Bridge's Diner,89 Canal St,40.71542,-73.99353,Diner,0,6,8,0,0,1
+"Manhattan, NY",582d2ac92c0e817af1a2e342,Chinatown NY,69 Mulberry St,40.71614,-73.99921,Diner,1,47,72,0,0,1
+"Manhattan, NY",581f86d8195c4b4b89fc712b,Tria Bakery & Cafe,22 Chatham Sq,40.71355,-73.99801,Diner,4,74,135,0,0,1
+"Manhattan, NY",5075941fe4b03c922d4040e5,Dining drease,,40.71435,-74.00597,Diner,0,18,36,0,0,1
+"Manhattan, NY",4efbaabe8b81729521faf8de,Green Kitchen,,40.86914,-73.93116,Diner,0,15,15,0,0,1
+"Manhattan, NY",5adcc2aa180b9148a03c0aca,Trade Union Diner,,40.68081,-73.92885,Diner,0,17,71,0,0,1
+"Manhattan, NY",5a2d57ccc530934e76377d17,647 Diner,647 5th Ave,40.66251,-73.99165,Diner,0,17,20,0,0,1
+"Manhattan, NY",5999bc7aee628b267d22ebb4,Av P Coffee Shop,401 Avenue P,40.60901,-73.97265,Diner,1,3,4,0,0,1
+"Bronx, NY",57f93740cd10b5d065ea961a,Dale Diner,,40.87875,-73.90421,Diner,1,59,140,0,0,1
+"Bronx, NY",535d320511d260e3a8a88cc4,Williambridge Diner and Bakery,2107 Williamsbridge Rd,40.85564,-73.85552,Diner,0,9,16,0,0,1
+"Bronx, NY",5070545fe4b0508a5d2aae8e,liberty diner,2059 Williamsbridge Rd,40.85539,-73.85535,Diner,0,8,29,0,0,1
+"Bronx, NY",5480a7f2498edf99c55a9e0d,National Diner,135 Westchester Sq,40.83979,-73.84296,Diner,0,25,37,0,0,1
+"Bronx, NY",4d64f623897a224b956526cf,Golden Eagle II,682 Morris Park Ave,40.84518,-73.86642,Diner,2,70,247,0,0,1
+"Bronx, NY",53822d55498e15919e92b754,Aurora Grill,837 Washington Ave,40.82259,-73.91146,Diner,0,4,4,0,0,1
+"Bronx, NY",5556abb0498e975fbf534941,Skyview Diner,2365 Westchester Ave,40.83668,-73.8471,Diner,0,29,66,0,0,1
+"Bronx, NY",4eabc5ef0aafb00bd91ad13b,Rainbow Diner & Restaurant,,40.86528,-73.89213,Diner,0,9,10,0,0,1
+"Bronx, NY",5682d4e1498e45130a4b778d,J Perry's Diner,2783 3rd Ave,40.81613,-73.92127,Diner,0,9,132,0,0,1
+"Bronx, NY",594e2b42a4b51b7d054e70e2,Jimmy's Grand Cafe,1001 Castle Hill Ave,40.83566,-73.84922,Diner,0,10,22,0,0,1
+"Bronx, NY",5888e366cc5b6a76d432281f,Petes Cafe,,40.85867,-73.88599,Diner,1,36,64,0,0,1
+"Bronx, NY",4ba7977af964a52054a039e3,Hill Top Diner,1306 Castle Hill Ave,40.83451,-73.8518,Diner,1,54,92,0,0,1
+"Bronx, NY",4c878dead8086dcb4eefa252,Sophie's Diner,3285 Westchester Ave,40.85329,-73.82777,Diner,1,31,56,0,0,2
+"Bronx, NY",4bd5e9f16f64952192f16fec,Blue Sky Diner,3603 Riverdale Ave,40.88671,-73.90729,Diner,0,10,13,0,0,1
+"Bronx, NY",528900a8498e14da1221eb85,Broadway Yonkers Dinner,,40.91235,-73.89672,Diner,2,9,11,0,0,1
+"Bronx, NY",4cc77522fa03224be6b93eef,Pop Diner,80-26 Queens Blvd,40.83631,-73.83676,Diner,1,8,9,0,0,1
+"Bronx, NY",538a1b55498e8da3bcca21b6,Crown Diner,,40.82786,-73.92481,Diner,2,59,221,0,0,1
+"Bronx, NY",4d20c11ebdd7a093f002f0ce,Quality Diner,Buhre Ave,40.84685,-73.83236,Diner,2,60,110,0,0,1
+"Bronx, NY",52bb4e7a498e4aca271619cb,Qebaptore Teuta,603 E 186th St,40.85459,-73.88796,Diner,1,10,17,0,0,1
+"Bronx, NY",525a5ba211d2b9d15a58de95,Cross Town Cafe,Bronx,40.83247,-73.82893,Diner,0,6,6,0,0,1
+"Bronx, NY",4bb5f223f562ef3b8f682f97,Burger Hut,1521 Westchester Ave,40.82867,-73.87882,Diner,2,53,132,0,0,1
+"Bronx, NY",552a869a498e00d18e780057,M&G II,2471 Arthur Ave,40.85721,-73.88619,Diner,0,20,58,0,0,1
+"Bronx, NY",4e4e2868bd4101d0d7a3948f,Ellie's Diner Restaurant,1322 Metropolitan Ave,40.83239,-73.85924,Diner,0,34,66,0,0,1
+"Bronx, NY",4fa2914fe4b0489ba3a3d560,ralphs diner,1315 Commerce Ave,40.83589,-73.84071,Diner,1,5,6,0,0,1
+"Bronx, NY",580951b1d67c230d426ae0e7,Golden Eagle Diner,2107 Williamsbridge Rd,40.85558,-73.85573,Diner,2,8,9,0,0,1
+"Bronx, NY",4d060583c2e53704dc49c167,Pete's Diner,3721 E Tremont Ave,40.82643,-73.82156,Diner,3,68,236,0,0,1
+"Bronx, NY",4d7f6ca1cd09224b568d5b30,The Locust Restaurant,305 Locust Ave,40.80352,-73.90599,Diner,1,31,116,0,0,1
+"Bronx, NY",4fe48299e4b06b1c063a2c33,National Coffee Shop,8 Bedford Park Blvd E,40.87284,-73.88905,Diner,0,20,26,0,0,1
+"Bronx, NY",5491cc59498e9b626a4d0834,Jimbo's Hamburger Palace,1977 Jerome Ave,40.85229,-73.90899,Diner,0,17,28,0,0,1
+"Queens, NY",523b3a4311d2ebbbaa404ccd,DoubleDDiner.org,,40.64169,-73.78766,Diner,1,5,5,0,0,1
+"Queens, NY",4e9bf48e2c5b4d6405eff496,JFK Diner,Terminal 8,40.64649,-73.79106,Diner,0,21,29,0,0,1
+"Queens, NY",4b8bfc86f964a52086b632e3,Cypriana,47-02 37th St,40.74214,-73.92836,Diner,0,35,281,0,0,1
+"Queens, NY",517d8f27498e11ab4a2e8e9f,Vajina Diner,,40.73462,-73.85697,Diner,0,3,9,0,0,1
+"Queens, NY",4d3c2fa0fb4c5481e347d214,John's Coffee Shop,12920 Hillside Ave,40.70358,-73.82261,Diner,1,20,25,0,0,1
+"Queens, NY",4bc993f00687ef3ba925dacc,Village Diner,218-12 Jamaica Ave,40.71779,-73.73674,Diner,3,67,223,0,0,1
+"Queens, NY",4dad725e93a070582baecdd1,The Greasy Spoon,127-128 Merrick Blvd,40.68108,-73.76435,Diner,1,5,7,0,0,1
+"Queens, NY",4b6438eef964a520dfa42ae3,GP Diner,11803 Liberty Ave,40.68601,-73.82499,Diner,3,44,98,0,0,1
+"Queens, NY",4c5eedced25320a1bafcc97a,Rego Park Cafe,9414 63rd Dr,40.729,-73.86302,Diner,2,144,312,0,0,1
+"Queens, NY",5060d7c7e4b06bd054366460,Red Storm Diner,8000 Utopia Pkwy,40.72037,-73.7957,Diner,0,49,178,0,0,1
+"Queens, NY",52693ea8498eefeefa3edaa6,Fish And Chips,,40.76841,-73.87324,Diner,0,3,3,0,0,1
+"Queens, NY",4bdc25a0c79cc928005885e9,Forest Diner,6361 108th St,40.73326,-73.84977,Diner,1,47,67,0,0,1
+"Queens, NY",5262c9af11d2a03214e0ad92,Flasgship Diner,13840 Queens Blvd,40.70933,-73.83058,Diner,0,7,8,0,0,1
+"Queens, NY",4ed25a7dd3e3521ce7faa469,Corner Coffee Shop,19-33 Mott Avenue,40.60425,-73.75286,Diner,3,43,254,0,0,1
+"Queens, NY",5b80bd7dacb00b002cb717a7,Ministar Gourmet,3816 30th Ave,40.76384,-73.91541,Diner,0,0,0,0,0,1
+"Queens, NY",4ece7c0dbe7b9eecddc38443,Rego Park Diner,,40.7108,-73.861,Diner,0,13,84,0,0,1
+"Queens, NY",53cbc5af498eeaab3e6af8b9,Roosevelt Diner,79-09 Roosevelt Ave,40.74747,-73.8864,Diner,0,10,14,0,0,1
+"Queens, NY",4eccefea2c5b26aab920f21d,Utopia Diner,188-15 Northern Blvd,40.75784,-73.79214,Diner,0,15,26,0,0,1
+"Queens, NY",5536ea95498eeecc230c2df3,59 Grand Diner,58-16 59th St,40.72061,-73.90838,Diner,0,15,25,0,0,1
+"Queens, NY",5aa57b26db2aeb11004487d3,BLVD Diner,43-11 Queens Blvd,40.74373,-73.92106,Diner,0,36,58,0,0,1
+"Queens, NY",4c10ed766b7e2d7f70592835,Sunrise Coffee Shop,4504 Parsons Blvd,40.75559,-73.8157,Diner,2,139,1133,0,0,1
+"Queens, NY",57532772498ecf0184a29c86,Orange Hut,5317 Broadway,40.75343,-73.90779,Diner,0,34,41,0,0,1
+"Queens, NY",4dbdaefb93a08f9274db6714,A Taste of the Town,120-21 Jamaica Ave,40.70044,-73.82918,Diner,0,4,4,0,0,1
+"Queens, NY",58a7420a7ff1e46c18a3f808,Madison Barrel,766 Seneca Ave,40.70192,-73.90603,Diner,0,16,22,0,0,1
+"Queens, NY",4e74a03e1495be5170bcc2c6,Diner,12021 Jamaica Ave,40.71144,-73.76703,Diner,1,23,150,0,0,1
+"Queens, NY",5096e17b498ecb7e55a6f250,Jr's coffeeshop and restaurant,,40.70641,-73.91692,Diner,0,5,9,0,0,1
+"Queens, NY",4bb7ca021261d13afde1e798,City Coffee Restaurant,7717 37th Ave,40.74947,-73.88826,Diner,3,85,250,0,0,1
+"Queens, NY",51950e95498e979a6c4b605a,Pronto Deli,5203 Metropolitan Ave,40.71477,-73.91625,Diner,0,39,336,0,0,1
+"Queens, NY",4b9d64a0f964a52068a936e3,Louie's Luncheonette,40-48 192nd St,40.75941,-73.7896,Diner,0,19,209,0,0,1
+"Queens, NY",5629a161498e154e01d5263e,Fergana,94-09 63rd Dr,40.72904,-73.86326,Diner,0,2,2,0,0,0
+"Queens, NY",51b36b24498e7b6ccd3ba3c4,Broadway Grill,42-13 Broadway,40.75807,-73.91706,Diner,1,35,75,0,0,1
+"Queens, NY",558fe13a498ee59b231623ea,parkway diner,,40.76586,-73.74503,Diner,0,5,6,0,0,1
+"Queens, NY",5678a5b5498ecc0a7f8c6182,Crescent Kitchen,,40.76857,-73.92522,Diner,0,13,17,0,0,1
+"Queens, NY",4d7cca6be04d6ea80f3201d6,Crescent Diner,23-40 30th Ave,40.76856,-73.92532,Diner,1,8,8,0,0,1
+"Queens, NY",4a077e2cf964a5206c731fe3,Towers Restaurant & Caterers,272-48 Grand Central Pkwy,40.75682,-73.71488,Diner,10,60,191,0,0,1
+"Queens, NY",4c54758272cf0f47c2f099d4,Country Heart Cooking,202-20 Rockaway Point Blvd,40.56137,-73.91196,Diner,3,61,187,0,0,1
+"Brooklyn, NY",4adb5e94f964a5208a2621e3,Off Shore Restaurant,7822 3rd Ave,40.62876,-74.02898,Diner,3,102,179,0,0,1
+"Brooklyn, NY",4b129de2f964a520608b23e3,Connie's Cafe,424 Church Ave,40.64438,-73.97577,Diner,6,102,244,0,0,1
+"Brooklyn, NY",509c73abe4b0548c5b891e75,Ванька Встанька,3808,40.59102,-73.9405,Diner,0,8,10,0,0,1
+"Brooklyn, NY",545d83af498ef95e934bfab8,chuvoys,502 Grand St,40.71076,-73.95089,Diner,1,13,13,0,0,1
+"Brooklyn, NY",4b9155adf964a52009b433e3,Nick's Restaurant,876 4th Ave,40.65646,-74.00212,Diner,1,19,45,0,0,1
+"Brooklyn, NY",5804cb1d38fa4dc6aabc0339,Livingston Diner,372 Livingston St,40.68776,-73.98022,Diner,1,34,53,0,0,1
+"Brooklyn, NY",4f3227e719836c91c7bbaaeb,Brooklyn Diner,515 Atlantic Ave,40.68532,-73.9807,Diner,1,10,12,0,0,1
+"Brooklyn, NY",4c6ad3ed6d390f470254099a,Bill's Restuarant,985 Wyckoff Ave,40.69268,-73.90513,Diner,2,66,550,0,0,1
+"Brooklyn, NY",4cc969d07151721ec97b6637,Best Coffee Shop,8612 5th Ave,40.62108,-74.02708,Diner,1,32,80,0,0,1
+"Brooklyn, NY",4b883db7f964a520d1e931e3,New Dyker Restaurant,8505 18th Ave,40.60768,-74.00215,Diner,3,100,198,0,0,2
+"Brooklyn, NY",55969b7d498ea6e8835c708b,New Stoop Diner,606 5th Ave,40.66373,-73.99081,Diner,1,19,25,0,0,1
+"Brooklyn, NY",4b816721f964a520eaa330e3,Armando & Pablo's Restaurant,43 Newkirk Plz,40.63511,-73.96301,Diner,3,78,194,0,0,1
+"Brooklyn, NY",4c18b879d4d9c92806c4ef29,Sally's Coffee Shop,8501 3rd Ave,40.6243,-74.0307,Diner,3,52,105,0,0,1
+"Brooklyn, NY",4bd6d0ce6f649521f25771ec,Pier 53 Restaurant (June's),5313 2nd Ave,40.64744,-74.01885,Diner,2,26,76,0,0,1
+"Brooklyn, NY",5150e051e4b090c2a39b4ce0,Cupcake Seder,,40.6746,-73.96831,Diner,0,6,6,0,0,1
+"Brooklyn, NY",4c165af17f7f2d7f1fd6e368,My 3 Sons Diner,7121 Fort Hamilton Pkwy,40.62637,-74.01346,Diner,6,93,538,0,0,2
+"Brooklyn, NY",5287d1d2498e9f1f58af8e44,Star Stage Diner,324 Graham Ave,40.7139,-73.94393,Diner,1,21,22,0,0,1
+"Brooklyn, NY",4b2bcfa6f964a52072bb24e3,New Bay Coffee Shop,1950 86th St,40.60599,-73.99901,Diner,3,43,107,0,0,2
+"Brooklyn, NY",59bd371c16fa0461231ee795,Mike's Diner,1454 86th St,40.61169,-74.01016,Diner,0,36,53,0,0,1
+"Brooklyn, NY",510efca2e4b09bd90371c152,Luncheonette Fountain,,40.72562,-73.94375,Diner,1,41,43,0,0,1
+"Brooklyn, NY",4caf44d0db32f04dc2ebb54d,U & I Restaurant,4415 18th Ave,40.63058,-73.97742,Diner,4,33,75,0,0,2
+"Brooklyn, NY",580ba35638fa122cf8e313af,Crown Pacific Cafe,75 Utica Ave,40.67638,-73.93012,Diner,1,20,34,0,0,1
+"Brooklyn, NY",4cbd9ba34c60a093f69e57ca,Sammy's Coffee Shop,1571 Broadway,40.68577,-73.91436,Diner,2,27,48,0,0,1
+"Brooklyn, NY",4d70140c0d996dcb35bec08e,Steiner Studios Catering,,40.70173,-73.96727,Diner,0,28,108,0,0,1
+"Brooklyn, NY",583af84af229952c8d5ce0d1,Bay Cafe Diner,535 86th St,40.62089,-74.02511,Diner,0,4,5,0,0,1
+"Brooklyn, NY",4c421562d691c9b6d9ca8d0a,Pete's Family Restaurant,311 Avenue X,40.59034,-73.97175,Diner,2,38,64,0,0,1
+"Brooklyn, NY",4c49da11fbafc92881b67bdb,Andrew's Coffee Shop,901 Church Ave,40.64654,-73.97072,Diner,1,39,81,0,0,1
+"Brooklyn, NY",4bcc75bb68f976b06a9b6283,Union Street Cafe,568 Union St,40.67829,-73.98539,Diner,0,83,166,0,0,1
+"Brooklyn, NY",4fccd543e4b06c8db4545973,On Montrose Ave Eatery,59 Montrose Ave,40.70686,-73.94747,Diner,3,27,49,0,0,1
+"Brooklyn, NY",4c8bbfe5cf3ea1432791ee51,Sunset Restaurant Diner,593 Meeker Ave,40.72157,-73.94192,Diner,0,23,40,0,0,1
+"Brooklyn, NY",4cf929f66cee236add23eb03,Bistro 54,2nd Ave and 53rd Street,40.64649,-74.01962,Diner,7,87,210,0,0,2
+"Brooklyn, NY",4bffc2b292a6c928270543e2,Best Luncheonette,1758 Bath Ave,40.60474,-74.00649,Diner,0,20,37,0,0,1
+"Brooklyn, NY",523ead3711d2f7581be23305,Mike's Diner,,40.62446,-74.02542,Diner,0,15,25,0,0,1
+"Brooklyn, NY",52a622d0498e4992518a2fea,JF Kwok Cafe,773 60th St,40.63316,-74.00715,Diner,0,8,10,0,0,1
+"Brooklyn, NY",584d7f0123188e0c095ee8c0,Abir Halal Restaurant,524 Nostrand Ave,40.68086,-73.94988,Diner,0,3,4,0,0,1
+"Brooklyn, NY",53ece0c7498e33680fe08647,Spiro's Cafe & Pizza,942 4th Ave,40.65457,-74.00408,Diner,0,14,15,0,0,1
+"Brooklyn, NY",4c33b7f466e40f477e79c88b,Munchinette,1773 Sheepshead Bay Rd,40.58505,-73.95132,Diner,1,77,402,0,0,1
+"Brooklyn, NY",58120d2738fad2ef57b6bfe0,Chubby Burger Chicken And Pizza,2962 Fulton St,40.67952,-73.88538,Diner,0,1,1,0,0,1
+"Brooklyn, NY",4aaa69bff964a520dc5520e3,Faros Restaurant,95 Church Ave,40.64272,-73.97963,Diner,3,116,257,0,0,1
+"Brooklyn, NY",4c424ceea5c5ef3b2876b06f,Frank's Luncheonette,365 Smith St,40.67922,-73.99562,Diner,4,71,284,0,0,1
+"Brooklyn, NY",56dc53decd10b73f2cb30895,Vinny's Lunchbox,171 Avenue U,40.59653,-73.97798,Diner,2,32,65,0,0,1
+"Brooklyn, NY",58b0be378cb34e443b4ad0f5,Brooklyn Diner,,40.61947,-73.91734,Diner,0,19,43,0,0,1
+"Brooklyn, NY",5336d9c911d2825138488127,El pachangon,60-12 New Utrecht Ave,40.62737,-73.9979,Diner,0,3,3,0,0,1
+"Brooklyn, NY",4ed4e2de490137002cd8b387,Yansel Restaurant Corp.,270 Marcus Garvey Blvd,40.68795,-73.93749,Diner,2,7,16,0,0,1
+"Brooklyn, NY",5c119dac829b0c002c9799b8,Grand Canyon Restaurant,143 Montague St,40.69474,-73.99359,Diner,0,57,82,0,0,2
+"Brooklyn, NY",4c57237830d82d7fcf26d962,Garden of Eat-In,1416 Avenue J,40.62517,-73.96177,Diner,4,82,193,0,0,1
+"Brooklyn, NY",57c4b6dc498ece54312a9a70,Angelica's Coffee Shop,424 Church Ave,40.64426,-73.97574,Diner,6,73,162,0,0,1
+"Staten Island, NY",4d841439e83fa14337155ca1,Colonade Diner,Hylan Blvd.,40.58248,-74.10784,Diner,1,103,142,0,0,1
+"Staten Island, NY",4f0653d030f824dd64466a94,King's Arms,,40.62994,-74.10997,Diner,2,16,129,0,0,1
+"Staten Island, NY",4c32705ba0ced13a6a2f156e,Mike's Place,1637 Forest Ave,40.57105,-74.11071,Diner,6,190,323,0,0,1
+"Staten Island, NY",4c6bfeec3e72b713c1ff6689,Vincent's Deli & Grill,1132 Targee St,40.60032,-74.09167,Diner,1,6,22,0,0,1
+"Staten Island, NY",513fc116e4b0d212fdea9640,Mommy And Son Quality Time,,40.58506,-74.16232,Diner,0,3,3,0,0,1
+"Staten Island, NY",4cc609e0bde8f04d1da9b44b,Staten Island Diner,1877 Victory Blvd,40.63338,-74.11339,Diner,1,10,14,0,0,1
+"Staten Island, NY",4cd8306f7d4546880364eaed,Jerry's 637 Diner,637 Bay St,40.62645,-74.07556,Diner,1,63,89,0,0,1
+"Staten Island, NY",4c7b1e7983a7bfb742c689f8,Mike's Souvlaki Express,1995 Hylan Blvd,40.58135,-74.09845,Diner,1,222,464,0,0,1
+"Staten Island, NY",57b20457498eee85259ef4fa,Mike's Olympic Grill,,40.62537,-74.14351,Diner,0,15,21,0,0,1
+"Staten Island, NY",4ecd2083e5fa85e5ed0e33fe,8th St Diner,5th ave 8th street,40.65454,-74.12599,Diner,2,49,227,0,0,1
+"Staten Island, NY",4e0db6a9e4cd27fc7d27c46d,Donato's Place,1456 Richmond Rd,40.59391,-74.09953,Diner,1,10,17,0,0,1

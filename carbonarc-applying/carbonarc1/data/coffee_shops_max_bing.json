@@ -1,0 +1,890 @@
+{
+    "authenticationResultCode": "ValidCredentials",
+    "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+    "copyright": "Copyright \u00a9 2022 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+    "resourceSets": [
+        {
+            "estimatedTotal": 25,
+            "resources": [
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.70264435,
+                            -73.99088287
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "67 Front St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "67 Front St, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(718) 855-0856",
+                    "Website": "https://www.starbucks.com/store-locator/store/16940/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.70264435,
+                                -73.99088287
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.69189072,
+                            -73.98843384
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "348 Fulton St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "348 Fulton St, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(718) 488-1719",
+                    "Website": "https://www.starbucks.com/store-locator/store/89214/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.69173431,
+                                -73.98854065
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.68460846,
+                            -73.97755432
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "139 Flatbush Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "139 Flatbush Ave, Brooklyn, NY, 11217",
+                        "locality": "Brooklyn",
+                        "postalCode": "11217"
+                    },
+                    "PhoneNumber": "(718) 789-3418",
+                    "Website": "https://www.starbucks.com/store-locator/store/12555",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68460846,
+                                -73.97755432
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Mike's Coffee Shop",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.68964386,
+                            -73.96529388
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "328 Dekalb Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "328 Dekalb Ave, Brooklyn, NY, 11205",
+                        "locality": "Brooklyn",
+                        "postalCode": "11205"
+                    },
+                    "PhoneNumber": "(718) 857-1462",
+                    "Website": "http://mikescoffeeshopbrooklyn.24cafes.com/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68964386,
+                                -73.96529388
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.69485092,
+                            -73.9949646
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "134 Montague St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "134 Montague St, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(718) 243-0455",
+                    "Website": "https://www.starbucks.com/store-locator/store/88600/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.69485092,
+                                -73.9949646
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71487808,
+                            -74.00603485
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "291 Broadway",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "291 Broadway, New York, NY, 10007",
+                        "locality": "New York",
+                        "postalCode": "10007"
+                    },
+                    "PhoneNumber": "(212) 406-5315",
+                    "Website": "https://www.starbucks.com/store-locator/store/18526/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.71487808,
+                                -74.00603485
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71093369,
+                            -74.01021576
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "195 Broadway",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "195 Broadway, New York, NY, 10007",
+                        "locality": "New York",
+                        "postalCode": "10007"
+                    },
+                    "PhoneNumber": "(212) 385-1104",
+                    "Website": "https://www.starbucks.com/store-locator/store/16209/195-broadway-195-broadway-new-york-ny-100073100-us",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.71093369,
+                                -74.01021576
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.70438385,
+                            -74.01301575
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "2 Broadway",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "2 Broadway, New York, NY, 10004",
+                        "locality": "New York",
+                        "postalCode": "10004"
+                    },
+                    "PhoneNumber": "(212) 344-4290",
+                    "Website": "https://www.starbucks.com/store-locator/store/12804/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.70438385,
+                                -74.01301575
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.69499207,
+                            -73.98287964
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "309 Gold St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "309 Gold St, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(347) 997-2633",
+                    "Website": "https://www.starbucks.com/store-locator/store/1009903/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.69499207,
+                                -73.98287964
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71029282,
+                            -74.00786591
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "130 Fulton St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "130 Fulton St, New York, NY, 10038",
+                        "locality": "New York",
+                        "postalCode": "10038"
+                    },
+                    "PhoneNumber": "(212) 962-0439",
+                    "Website": "https://www.starbucks.com/store-locator/store/10655/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.71022415,
+                                -74.00797272
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "ABSOLUTE COFFEE",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.6880455,
+                            -73.98769379
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "327 ATLANTIC AV, FLR GRD",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "327 ATLANTIC AV, FLR GRD, BROOKLYN, NY, 11201",
+                        "locality": "BROOKLYN",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(718) 522-0969",
+                    "Website": "https://absolutecoffee.nyc/gallery",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68817902,
+                                -73.98764038
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.7193222,
+                            -73.98996735
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "80 Delancey St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "80 Delancey St, New York, NY, 10002",
+                        "locality": "New York",
+                        "postalCode": "10002"
+                    },
+                    "PhoneNumber": "(917) 534-1397",
+                    "Website": "https://www.starbucks.com/store-locator/store/9589/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.7193222,
+                                -73.98996735
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.7047081,
+                            -74.00894928
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "110 Pearl St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "110 Pearl St, New York, NY, 10005",
+                        "locality": "New York",
+                        "postalCode": "10005"
+                    },
+                    "PhoneNumber": "(212) 482-6530",
+                    "Website": "https://www.starbucks.com/store-locator/store/7912/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.7047081,
+                                -74.00894928
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.70851135,
+                            -74.00748444
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "100 William St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "100 William St, New York, NY, 10038",
+                        "locality": "New York",
+                        "postalCode": "10038"
+                    },
+                    "PhoneNumber": "(212) 509-9709",
+                    "Website": "https://www.starbucks.com/store-locator/store/16844/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.70838165,
+                                -74.00734711
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.70527267,
+                            -74.0114975
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "55 Broad St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "55 Broad St, New York, NY, 10004",
+                        "locality": "New York",
+                        "postalCode": "10004"
+                    },
+                    "PhoneNumber": "(212) 742-2490",
+                    "Website": "https://www.starbucks.com/store-locator/store/16214/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.70522308,
+                                -74.01129913
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.70876694,
+                            -74.01113892
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "115 Broadway",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "115 Broadway, New York, NY, 10006",
+                        "locality": "New York",
+                        "postalCode": "10006"
+                    },
+                    "PhoneNumber": "(212) 732-9268",
+                    "Website": "https://www.starbucks.com/store-locator/store/17705/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.70876694,
+                                -74.01113892
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71579361,
+                            -74.00317383
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "111 Worth St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "111 Worth St, New York, NY, 10013",
+                        "locality": "New York",
+                        "postalCode": "10013"
+                    },
+                    "PhoneNumber": "(212) 964-8846",
+                    "Website": "https://www.starbucks.com/store-locator/store/15295/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.71579361,
+                                -74.00317383
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.6928978,
+                            -73.98381805
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "4 Metrotech Ctr",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "4 Metrotech Ctr, Brooklyn, NY, 11245",
+                        "locality": "Brooklyn",
+                        "postalCode": "11245"
+                    },
+                    "PhoneNumber": "(929) 285-8946",
+                    "Website": "https://www.starbucks.com/store-locator/store/1017897",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.6928978,
+                                -73.98381805
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71883774,
+                            -74.00236511
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "405 Broadway",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "405 Broadway, New York, NY, 10013",
+                        "locality": "New York",
+                        "postalCode": "10013"
+                    },
+                    "PhoneNumber": "(646) 613-0148",
+                    "Website": "https://www.starbucks.com/store-locator/store/17070/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.71891785,
+                                -74.00256348
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Black Brick Coffee",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.71414948,
+                            -73.96152496
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "300 Bedford Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "300 Bedford Ave, Brooklyn, NY, 11249",
+                        "locality": "Brooklyn",
+                        "postalCode": "11249"
+                    },
+                    "PhoneNumber": "(718) 384-0075",
+                    "Website": "https://blackbrickcoffee.com/post/95634331558/talk-to-me-after-my-first-coffee-morningtruth",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.7142067,
+                                -73.96166992
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.68618011,
+                            -73.99081421
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "164 Smith St",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "164 Smith St, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(718) 422-0178",
+                    "Website": "https://www.starbucks.com/store-locator/store/17069/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68622589,
+                                -73.99094391
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Kaigo Coffee Room",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.69353485,
+                            -74.00102234
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "139 Bridge Park Dr",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "139 Bridge Park Dr, Brooklyn, NY, 11201",
+                        "locality": "Brooklyn",
+                        "postalCode": "11201"
+                    },
+                    "PhoneNumber": "(347) 529-6180",
+                    "Website": "http://kaigocoffee.com/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.69346619,
+                                -74.00073242
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Starbucks",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.68879318,
+                            -73.9628067
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "325 Lafayette Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "325 Lafayette Ave, Brooklyn, NY, 11205",
+                        "locality": "Brooklyn",
+                        "postalCode": "11205"
+                    },
+                    "PhoneNumber": "(718) 230-0007",
+                    "Website": "https://www.starbucks.com/store-locator/store/1023305",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68879318,
+                                -73.9628067
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "Sweetwaters Coffee & Tea 5Th Ave. Park Slope",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.68107224,
+                            -73.97707367
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "55 5th Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "55 5th Ave, Brooklyn, NY, 11217",
+                        "locality": "Brooklyn",
+                        "postalCode": "11217"
+                    },
+                    "PhoneNumber": "(845) 236-6103",
+                    "Website": "https://www.sweetwaterscafe.com/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.68107224,
+                                -73.97707367
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "__type": "SearchResult:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "name": "BKG Coffee Roasters",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.69391632,
+                            -73.96190643
+                        ]
+                    },
+                    "Address": {
+                        "addressLine": "557 Myrtle Ave",
+                        "adminDistrict": "NY",
+                        "countryRegion": "US",
+                        "formattedAddress": "557 Myrtle Ave, Brooklyn, NY, 11205",
+                        "locality": "Brooklyn",
+                        "postalCode": "11205"
+                    },
+                    "PhoneNumber": "(347) 628-1141",
+                    "Website": "https://bkgcoffee.com/",
+                    "entityType": "Restaurant",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                40.69404984,
+                                -73.96192169
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "statusCode": 200,
+    "statusDescription": "OK",
+    "traceId": "29b05f137bf845e39b6751393d972a4d|BN00005042|0.0.0.0|Ref A: 9D3B7501AAB04A988E1FA68E6A86FD3E Ref B: BN3EDGE0407 Ref C: 2022-08-24T10:49:24Z"
+}

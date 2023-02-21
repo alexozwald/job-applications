@@ -1,0 +1,16 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Alex Oswald", email = "oswald.al@northeastern.edu"},
+]
+dependencies = [
+    "ipython>=8.10.0",
+    "json5>=0.9.11",
+    "orjson>=3.8.6",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
