@@ -1,5 +1,7 @@
 ![PayEntryLogo](./extracted_image-000.jpg)
 
+# PayEntry Screening Interview Questions
+
 *19701 Bethel Church Rd Suite 103 Box 320 Cornelius, NC 28031, United States.*
 
 **Instructions**: Please precede all your answers with the question you are answering. Use acronyms only after you've explained them. Use correct spelling and grammar. Be sure to write your name and the interviewer’s name.
@@ -56,7 +58,7 @@ I prioritize by understanding project requirements and deadlines, and principall
 
 13. **How much will you request per hour if you are hired?**
 
-The listed compensation is $70/hr; I'd request & expect the same.
+The listed compensation is $70/hr. I request & expect the same.
 
 14. **How well do you handle constructive criticism about your Software development projects? Can you give me an example?**
 
